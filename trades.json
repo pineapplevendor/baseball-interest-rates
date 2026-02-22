@@ -1,0 +1,8503 @@
+[
+  {
+    "date": "November 2, 1999",
+    "from_team": "DET",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "webb--001ala",
+      "catalfr01",
+      "cordefr01",
+      "haselbi01",
+      "kaplega01",
+      "thompju02"
+    ],
+    "to_player_ids": [
+      "gonzaju03",
+      "patteda04",
+      "zaungr01"
+    ]
+  },
+  {
+    "date": "November 8, 1999",
+    "from_team": "LAD",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "borbope02",
+      "mondera01"
+    ],
+    "to_player_ids": [
+      "nunez-001jor",
+      "greensh01"
+    ]
+  },
+  {
+    "date": "November 10, 1999",
+    "from_team": "PHI",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "eatonad01",
+      "loeweca01",
+      "montgst01"
+    ],
+    "to_player_ids": [
+      "ashbyan01"
+    ]
+  },
+  {
+    "date": "November 11, 1999",
+    "from_team": "STL",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "castial01",
+      "dewitma01",
+      "paintla01"
+    ],
+    "to_player_ids": [
+      "hentgpa01",
+      "spoljpa01"
+    ]
+  },
+  {
+    "date": "November 12, 1999",
+    "from_team": "BOS",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "nunnajo01"
+    ],
+    "to_player_ids": [
+      "allenje01"
+    ]
+  },
+  {
+    "date": "November 15, 1999",
+    "from_team": "FLA",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "meadobr01"
+    ],
+    "to_player_ids": [
+      "micelda01"
+    ]
+  },
+  {
+    "date": "November 16, 1999",
+    "from_team": "COL",
+    "to_team": "STL",
+    "from_player_ids": [
+      "hackmlu01",
+      "kileda01",
+      "veresda01"
+    ],
+    "to_player_ids": [
+      "aybarma01",
+      "butlebr02",
+      "crousri01",
+      "jimenjo01"
+    ]
+  },
+  {
+    "date": "November 17, 1999",
+    "from_team": "COL",
+    "to_team": "MIL",
+    "from_player_ids": [
+      "leskacu01"
+    ],
+    "to_player_ids": [
+      "myersmi01"
+    ]
+  },
+  {
+    "date": "December 7, 1999",
+    "from_team": "COL",
+    "to_team": "MIN",
+    "from_player_ids": [
+      "randasc01"
+    ],
+    "to_player_ids": [
+      "lathach01"
+    ]
+  },
+  {
+    "date": "December 10, 1999",
+    "from_team": "BAL",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "oroscje01"
+    ],
+    "to_player_ids": [
+      "mcelrch01"
+    ]
+  },
+  {
+    "date": "December 12, 1999",
+    "from_team": "BOS",
+    "to_team": "CHC",
+    "from_player_ids": [
+      "buforda01"
+    ],
+    "to_player_ids": [
+      "alexama02"
+    ]
+  },
+  {
+    "date": "December 12, 1999",
+    "from_team": "PHI",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "estalbo02"
+    ],
+    "to_player_ids": [
+      "brockch01"
+    ]
+  },
+  {
+    "date": "December 13, 1999",
+    "from_team": "ARI",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "manzue001rob"
+    ],
+    "to_player_ids": [
+      "clontbr01"
+    ]
+  },
+  {
+    "date": "December 13, 1999",
+    "from_team": "FLA",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "avenbr01"
+    ],
+    "to_player_ids": [
+      "brownbr01"
+    ]
+  },
+  {
+    "date": "December 13, 1999",
+    "from_team": "COL",
+    "to_team": "TBD",
+    "from_player_ids": [
+      "castivi02"
+    ],
+    "to_player_ids": [
+      "arrojro01",
+      "ledesaa01"
+    ]
+  },
+  {
+    "date": "December 13, 1999",
+    "from_team": "NYY",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "curtich01"
+    ],
+    "to_player_ids": [
+      "knighbr01",
+      "marsosa01"
+    ]
+  },
+  {
+    "date": "December 13, 1999",
+    "from_team": "BAL",
+    "to_team": "CHC",
+    "from_player_ids": [
+      "ojedaau01"
+    ],
+    "to_player_ids": [
+      "negret001ric"
+    ]
+  },
+  {
+    "date": "December 14, 1999",
+    "from_team": "LAD",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "leach-001nic"
+    ],
+    "to_player_ids": [
+      "naultda01"
+    ]
+  },
+  {
+    "date": "December 14, 1999",
+    "from_team": "BOS",
+    "to_team": "HOU",
+    "from_player_ids": [
+      "miller004gre",
+      "everead01"
+    ],
+    "to_player_ids": [
+      "evereca01"
+    ]
+  },
+  {
+    "date": "December 15, 1999",
+    "from_team": "FLA",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "dunwoto01"
+    ],
+    "to_player_ids": [
+      "mcnall001sea"
+    ]
+  },
+  {
+    "date": "December 15, 1999",
+    "from_team": "ARI",
+    "to_team": "STL",
+    "from_player_ids": [
+      "powelda01"
+    ],
+    "to_player_ids": [
+      "ordazlu01"
+    ]
+  },
+  {
+    "date": "December 22, 1999",
+    "from_team": "ATL",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "boonebr01",
+      "kleskry01",
+      "shielja01"
+    ],
+    "to_player_ids": [
+      "joynewa01",
+      "sandere02",
+      "verasqu01"
+    ]
+  },
+  {
+    "date": "December 22, 1999",
+    "from_team": "CHC",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "serafda01"
+    ],
+    "to_player_ids": [
+      "pernel001bra"
+    ]
+  },
+  {
+    "date": "December 23, 1999",
+    "from_team": "HOU",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "bellde01",
+      "hamptmi01"
+    ],
+    "to_player_ids": [
+      "kessel001kyl",
+      "cedenro01",
+      "doteloc01"
+    ]
+  },
+  {
+    "date": "January 12, 2000",
+    "from_team": "CHW",
+    "to_team": "MIL",
+    "from_player_ids": [
+      "navarja01",
+      "snydejo02"
+    ],
+    "to_player_ids": [
+      "eldreca01",
+      "valenjo03"
+    ]
+  },
+  {
+    "date": "January 14, 2000",
+    "from_team": "COL",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "gonzala02",
+      "jonesbo04"
+    ],
+    "to_player_ids": [
+      "yoshima01"
+    ]
+  },
+  {
+    "date": "January 21, 2000",
+    "from_team": "MIL",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "pulsibi01"
+    ],
+    "to_player_ids": [
+      "lopezlu02"
+    ]
+  },
+  {
+    "date": "February 10, 2000",
+    "from_team": "CIN",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "meyer-001jak",
+      "camermi01",
+      "perezan01",
+      "tomkobr01"
+    ],
+    "to_player_ids": [
+      "griffke02"
+    ]
+  },
+  {
+    "date": "February 18, 2000",
+    "from_team": "KCR",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "giambje01"
+    ],
+    "to_player_ids": [
+      "laxtobr01"
+    ]
+  },
+  {
+    "date": "March 10, 2000",
+    "from_team": "DET",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "sismon001rob"
+    ],
+    "to_player_ids": [
+      "mageewe01"
+    ]
+  },
+  {
+    "date": "March 13, 2000",
+    "from_team": "ATL",
+    "to_team": "CIN",
+    "from_player_ids": [
+      "garcifr01"
+    ],
+    "to_player_ids": [
+      "russo-001den"
+    ]
+  },
+  {
+    "date": "March 18, 2000",
+    "from_team": "NYM",
+    "to_team": "STL",
+    "from_player_ids": [
+      "oroscje01"
+    ],
+    "to_player_ids": [
+      "mcewijo01"
+    ]
+  },
+  {
+    "date": "March 21, 2000",
+    "from_team": "HOU",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "hernaca02"
+    ],
+    "to_player_ids": [
+      "maldoca03"
+    ]
+  },
+  {
+    "date": "March 22, 2000",
+    "from_team": "NYM",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "perez-001jer"
+    ],
+    "to_player_ids": [
+      "mannji01"
+    ]
+  },
+  {
+    "date": "March 23, 2000",
+    "from_team": "ANA",
+    "to_team": "STL",
+    "from_player_ids": [
+      "edmonji01"
+    ],
+    "to_player_ids": [
+      "botteke01",
+      "kennead01"
+    ]
+  },
+  {
+    "date": "March 23, 2000",
+    "from_team": "NYY",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "meloju01"
+    ],
+    "to_player_ids": [
+      "delgawi01"
+    ]
+  },
+  {
+    "date": "March 23, 2000",
+    "from_team": "CHC",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "myersro01"
+    ],
+    "to_player_ids": [
+      "matthga02"
+    ]
+  },
+  {
+    "date": "March 27, 2000",
+    "from_team": "CLE",
+    "to_team": "FLA",
+    "from_player_ids": [
+      "faltest01"
+    ],
+    "to_player_ids": [
+      "rodrig001vic"
+    ]
+  },
+  {
+    "date": "March 29, 2000",
+    "from_team": "ANA",
+    "to_team": "COL",
+    "from_player_ids": [
+      "dewey-001jas",
+      "hutchi001nor"
+    ],
+    "to_player_ids": [
+      "clemeed02"
+    ]
+  },
+  {
+    "date": "March 29, 2000",
+    "from_team": "HOU",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "milletr02"
+    ],
+    "to_player_ids": [
+      "perezyo01"
+    ]
+  },
+  {
+    "date": "April 1, 2000",
+    "from_team": "CIN",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "lutz--001ken"
+    ],
+    "to_player_ids": [
+      "castrju01"
+    ]
+  },
+  {
+    "date": "April 7, 2000",
+    "from_team": "CIN",
+    "to_team": "COL",
+    "from_player_ids": [
+      "whitega01"
+    ],
+    "to_player_ids": [
+      "aybarma01"
+    ]
+  },
+  {
+    "date": "April 14, 2000",
+    "from_team": "CHC",
+    "to_team": "MIL",
+    "from_player_ids": [
+      "kingra01"
+    ],
+    "to_player_ids": [
+      "johns-001dou"
+    ]
+  },
+  {
+    "date": "April 20, 2000",
+    "from_team": "ARI",
+    "to_team": "HOU",
+    "from_player_ids": [
+      "mcaffe001jos"
+    ],
+    "to_player_ids": [
+      "dallibr01"
+    ]
+  },
+  {
+    "date": "April 25, 2000",
+    "from_team": "KCR",
+    "to_team": "MON",
+    "from_player_ids": [
+      "rigbybr01"
+    ],
+    "to_player_ids": [
+      "batismi01"
+    ]
+  },
+  {
+    "date": "May 27, 2000",
+    "from_team": "HOU",
+    "to_team": "TBD",
+    "from_player_ids": [
+      "johnsru01"
+    ],
+    "to_player_ids": [
+      "valdema01"
+    ]
+  },
+  {
+    "date": "May 31, 2000",
+    "from_team": "CHW",
+    "to_team": "TBD",
+    "from_player_ids": [
+      "sturtta01"
+    ],
+    "to_player_ids": [
+      "graffto01"
+    ]
+  },
+  {
+    "date": "June 2, 2000",
+    "from_team": "ARI",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "harrile01"
+    ],
+    "to_player_ids": [
+      "pulsibi01"
+    ]
+  },
+  {
+    "date": "June 9, 2000",
+    "from_team": "FLA",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "brownbr01"
+    ],
+    "to_player_ids": [
+      "smithch07"
+    ]
+  },
+  {
+    "date": "June 9, 2000",
+    "from_team": "ARI",
+    "to_team": "FLA",
+    "from_player_ids": [
+      "foxan01"
+    ],
+    "to_player_ids": [
+      "bautida01"
+    ]
+  },
+  {
+    "date": "June 9, 2000",
+    "from_team": "CHC",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "martida01"
+    ],
+    "to_player_ids": [
+      "brownbr01"
+    ]
+  },
+  {
+    "date": "June 12, 2000",
+    "from_team": "MIN",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "alvare002fra"
+    ],
+    "to_player_ids": [
+      "romanmi01"
+    ]
+  },
+  {
+    "date": "June 29, 2000",
+    "from_team": "CLE",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "justida01"
+    ],
+    "to_player_ids": [
+      "dayza01",
+      "ledeeri01",
+      "westbja01"
+    ]
+  },
+  {
+    "date": "June 30, 2000",
+    "from_team": "BOS",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "saba--001ces",
+      "tankede01"
+    ],
+    "to_player_ids": [
+      "spraged02"
+    ]
+  },
+  {
+    "date": "July 12, 2000",
+    "from_team": "ATL",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "chenbr01",
+      "ostinji01"
+    ],
+    "to_player_ids": [
+      "ashbyan01"
+    ]
+  },
+  {
+    "date": "July 12, 2000",
+    "from_team": "CIN",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "frankmi02",
+      "neaglde01"
+    ],
+    "to_player_ids": [
+      "melian001jac",
+      "hensodr01",
+      "reithbr01",
+      "yarnaed01"
+    ]
+  },
+  {
+    "date": "July 17, 2000",
+    "from_team": "DET",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "alvarga01"
+    ],
+    "to_player_ids": [
+      "allendu01"
+    ]
+  },
+  {
+    "date": "July 19, 2000",
+    "from_team": "TEX",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "loaizes01"
+    ],
+    "to_player_ids": [
+      "cubilda01",
+      "youngmi02"
+    ]
+  },
+  {
+    "date": "July 21, 2000",
+    "from_team": "CHC",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "hillgl01"
+    ],
+    "to_player_ids": [
+      "fordbe01",
+      "maireos01"
+    ]
+  },
+  {
+    "date": "July 25, 2000",
+    "from_team": "MIL",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "morrow001alv"
+    ],
+    "to_player_ids": [
+      "brownke04"
+    ]
+  },
+  {
+    "date": "July 26, 2000",
+    "from_team": "CIN",
+    "to_team": "FLA",
+    "from_player_ids": [
+      "aybarma01"
+    ],
+    "to_player_ids": [
+      "cordov001jor"
+    ]
+  },
+  {
+    "date": "July 26, 2000",
+    "from_team": "ARI",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "daalom01",
+      "figuene01",
+      "leetr01",
+      "padilvi01"
+    ],
+    "to_player_ids": [
+      "schilcu01"
+    ]
+  },
+  {
+    "date": "July 28, 2000",
+    "from_team": "BAL",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "bordimi01"
+    ],
+    "to_player_ids": [
+      "gorman001pat",
+      "breale01",
+      "kinkami01",
+      "morame01"
+    ]
+  },
+  {
+    "date": "July 28, 2000",
+    "from_team": "OAK",
+    "to_team": "TBD",
+    "from_player_ids": [
+      "colomje01"
+    ],
+    "to_player_ids": [
+      "belitto01",
+      "mecirji01"
+    ]
+  },
+  {
+    "date": "July 28, 2000",
+    "from_team": "ANA",
+    "to_team": "CHC",
+    "from_player_ids": [
+      "hinchbr01",
+      "luuloke01"
+    ],
+    "to_player_ids": [
+      "king--002bre",
+      "hatchch01",
+      "heathmi03"
+    ]
+  },
+  {
+    "date": "July 28, 2000",
+    "from_team": "CLE",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "ledeeri01"
+    ],
+    "to_player_ids": [
+      "seguida01"
+    ]
+  },
+  {
+    "date": "July 28, 2000",
+    "from_team": "CLE",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "ramiral02",
+      "wilsoen01"
+    ],
+    "to_player_ids": [
+      "cordewi01"
+    ]
+  },
+  {
+    "date": "July 28, 2000",
+    "from_team": "NYM",
+    "to_team": "TBD",
+    "from_player_ids": [
+      "tynerja01",
+      "wilsopa02"
+    ],
+    "to_player_ids": [
+      "trammbu01",
+      "whiteri01"
+    ]
+  },
+  {
+    "date": "July 29, 2000",
+    "from_team": "BAL",
+    "to_team": "CHW",
+    "from_player_ids": [
+      "baineha01",
+      "johnsch04"
+    ],
+    "to_player_ids": [
+      "felix-002mig",
+      "figuer003jua",
+      "lakman001jas",
+      "fordybr01"
+    ]
+  },
+  {
+    "date": "July 29, 2000",
+    "from_team": "ANA",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "botteke01"
+    ],
+    "to_player_ids": [
+      "gantro01"
+    ]
+  },
+  {
+    "date": "July 29, 2000",
+    "from_team": "PIT",
+    "to_team": "STL",
+    "from_player_ids": [
+      "chrisja01"
+    ],
+    "to_player_ids": [
+      "wilsoja02"
+    ]
+  },
+  {
+    "date": "July 30, 2000",
+    "from_team": "HOU",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "henrydo01"
+    ],
+    "to_player_ids": [
+      "linebsc01"
+    ]
+  },
+  {
+    "date": "July 31, 2000",
+    "from_team": "BAL",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "aracen001jua"
+    ],
+    "to_player_ids": [
+      "shumaan01"
+    ]
+  },
+  {
+    "date": "July 31, 2000",
+    "from_team": "CHC",
+    "to_team": "MON",
+    "from_player_ids": [
+      "downssc01"
+    ],
+    "to_player_ids": [
+      "whitero02"
+    ]
+  },
+  {
+    "date": "July 31, 2000",
+    "from_team": "TBD",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "guthrma01",
+      "trachst01"
+    ],
+    "to_player_ids": [
+      "abernbr01"
+    ]
+  },
+  {
+    "date": "July 31, 2000",
+    "from_team": "SDP",
+    "to_team": "STL",
+    "from_player_ids": [
+      "tebbs-001nat",
+      "hernaca01"
+    ],
+    "to_player_ids": [
+      "johnsbe02",
+      "slocuhe01"
+    ]
+  },
+  {
+    "date": "July 31, 2000",
+    "from_team": "ATL",
+    "to_team": "BAL",
+    "from_player_ids": [
+      "hubbatr01",
+      "lunarfe01",
+      "riverlu02"
+    ],
+    "to_player_ids": [
+      "molinga01",
+      "surhob.01"
+    ]
+  },
+  {
+    "date": "July 31, 2000",
+    "from_team": "SDP",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "martial03"
+    ],
+    "to_player_ids": [
+      "daveyto01",
+      "mabryjo01"
+    ]
+  },
+  {
+    "date": "July 31, 2000",
+    "from_team": "CHC",
+    "to_team": "FLA",
+    "from_player_ids": [
+      "rodrihe02"
+    ],
+    "to_player_ids": [
+      "noyce-001dav",
+      "gloadro01"
+    ]
+  },
+  {
+    "date": "July 31, 2000",
+    "from_team": "MIN",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "valdema02"
+    ],
+    "to_player_ids": [
+      "ardoida01"
+    ]
+  },
+  {
+    "date": "July 31, 2000",
+    "from_team": "KCR",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "witasja01"
+    ],
+    "to_player_ids": [
+      "meadobr01"
+    ]
+  },
+  {
+    "date": "August 6, 2000",
+    "from_team": "CIN",
+    "to_team": "COL",
+    "from_player_ids": [
+      "averet002rob"
+    ],
+    "to_player_ids": [
+      "huntebr02"
+    ]
+  },
+  {
+    "date": "August 7, 2000",
+    "from_team": "NYY",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "spurlch01"
+    ],
+    "to_player_ids": [
+      "sojolu01"
+    ]
+  },
+  {
+    "date": "August 11, 2000",
+    "from_team": "KCR",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "ortiz-002nic"
+    ],
+    "to_player_ids": [
+      "delgawi01"
+    ]
+  },
+  {
+    "date": "August 12, 2000",
+    "from_team": "MON",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "skrmema01"
+    ],
+    "to_player_ids": [
+      "patteja01"
+    ]
+  },
+  {
+    "date": "August 30, 2000",
+    "from_team": "NYM",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "cruzne02"
+    ],
+    "to_player_ids": [
+      "velanjo01"
+    ]
+  },
+  {
+    "date": "August 31, 2000",
+    "from_team": "BOS",
+    "to_team": "MIN",
+    "from_player_ids": [
+      "deloss001hec"
+    ],
+    "to_player_ids": [
+      "cummimi01"
+    ]
+  },
+  {
+    "date": "August 31, 2000",
+    "from_team": "BOS",
+    "to_team": "CIN",
+    "from_player_ids": [
+      "curtic001joh",
+      "reitsch01"
+    ],
+    "to_player_ids": [
+      "bicheda01"
+    ]
+  },
+  {
+    "date": "September 9, 2000",
+    "from_team": "BOS",
+    "to_team": "MIN",
+    "from_player_ids": [
+      "fordle01"
+    ],
+    "to_player_ids": [
+      "carrahe01"
+    ]
+  },
+  {
+    "date": "November 7, 2000",
+    "from_team": "CHW",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "eyresc01"
+    ],
+    "to_player_ids": [
+      "glovega01"
+    ]
+  },
+  {
+    "date": "November 16, 2000",
+    "from_team": "BOS",
+    "to_team": "CIN",
+    "from_player_ids": [
+      "colemmi01",
+      "sadledo01"
+    ],
+    "to_player_ids": [
+      "stynech01"
+    ]
+  },
+  {
+    "date": "November 16, 2000",
+    "from_team": "CIN",
+    "to_team": "CLE",
+    "from_player_ids": [
+      "taubeed01"
+    ],
+    "to_player_ids": [
+      "pugmir001rob",
+      "broweji01"
+    ]
+  },
+  {
+    "date": "November 17, 2000",
+    "from_team": "OAK",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "velarra01"
+    ],
+    "to_player_ids": [
+      "cullen001rya",
+      "haranaa01"
+    ]
+  },
+  {
+    "date": "November 18, 2000",
+    "from_team": "CHC",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "worreti01"
+    ],
+    "to_player_ids": [
+      "muellbi02"
+    ]
+  },
+  {
+    "date": "November 20, 2000",
+    "from_team": "CHC",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "irelan001eri"
+    ],
+    "to_player_ids": [
+      "stairma01"
+    ]
+  },
+  {
+    "date": "November 22, 2000",
+    "from_team": "CIN",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "parrist01"
+    ],
+    "to_player_ids": [
+      "andrecl01",
+      "estrele01"
+    ]
+  },
+  {
+    "date": "December 9, 2000",
+    "from_team": "CHW",
+    "to_team": "FLA",
+    "from_player_ids": [
+      "abbotje01"
+    ],
+    "to_player_ids": [
+      "ramirju02"
+    ]
+  },
+  {
+    "date": "December 9, 2000",
+    "from_team": "ANA",
+    "to_team": "CIN",
+    "from_player_ids": [
+      "etherse01"
+    ],
+    "to_player_ids": [
+      "cacere001wil"
+    ]
+  },
+  {
+    "date": "December 11, 2000",
+    "from_team": "DET",
+    "to_team": "HOU",
+    "from_player_ids": [
+      "ausmubr01",
+      "brocado01",
+      "cruzne01"
+    ],
+    "to_player_ids": [
+      "cedenro01",
+      "holtch01",
+      "melusmi01"
+    ]
+  },
+  {
+    "date": "December 11, 2000",
+    "from_team": "NYM",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "trammbu01"
+    ],
+    "to_player_ids": [
+      "walldo01"
+    ]
+  },
+  {
+    "date": "December 11, 2000",
+    "from_team": "BAL",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "werthja01"
+    ],
+    "to_player_ids": [
+      "balejo01"
+    ]
+  },
+  {
+    "date": "December 14, 2000",
+    "from_team": "MON",
+    "to_team": "STL",
+    "from_player_ids": [
+      "hermadu01",
+      "klinest02"
+    ],
+    "to_player_ids": [
+      "reamebr01",
+      "tatisfe01"
+    ]
+  },
+  {
+    "date": "December 14, 2000",
+    "from_team": "CHW",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "myettaa01",
+      "schmabr01"
+    ],
+    "to_player_ids": [
+      "claytro01"
+    ]
+  },
+  {
+    "date": "December 15, 2000",
+    "from_team": "DET",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "mobley001kev",
+      "villabr01"
+    ],
+    "to_player_ids": [
+      "perisma01"
+    ]
+  },
+  {
+    "date": "December 18, 2000",
+    "from_team": "ATL",
+    "to_team": "BAL",
+    "from_player_ids": [
+      "siscost01"
+    ],
+    "to_player_ids": [
+      "garcije01"
+    ]
+  },
+  {
+    "date": "December 22, 2000",
+    "from_team": "BAL",
+    "to_team": "MON",
+    "from_player_ids": [
+      "minorry01"
+    ],
+    "to_player_ids": [
+      "juliojo01"
+    ]
+  },
+  {
+    "date": "January 3, 2001",
+    "from_team": "COL",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "leeda01"
+    ],
+    "to_player_ids": [
+      "taylor007tho",
+      "tessmja01"
+    ]
+  },
+  {
+    "date": "January 11, 2001",
+    "from_team": "CLE",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "martito02"
+    ],
+    "to_player_ids": [
+      "ochoa-002jav"
+    ]
+  },
+  {
+    "date": "January 14, 2001",
+    "from_team": "CHW",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "willia002mic",
+      "beirnke01",
+      "simmobr01",
+      "sirotmi01"
+    ],
+    "to_player_ids": [
+      "dewitma01",
+      "wellsda01"
+    ]
+  },
+  {
+    "date": "January 18, 2001",
+    "from_team": "BOS",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "crousri01"
+    ],
+    "to_player_ids": [
+      "graham001fra"
+    ]
+  },
+  {
+    "date": "March 17, 2001",
+    "from_team": "CHW",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "rodrig005orl",
+      "simpso001and",
+      "majewga01"
+    ],
+    "to_player_ids": [
+      "ortega001car",
+      "osunaan01"
+    ]
+  },
+  {
+    "date": "March 20, 2001",
+    "from_team": "CHW",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "dewitma01"
+    ],
+    "to_player_ids": [
+      "willia002mic"
+    ]
+  },
+  {
+    "date": "March 21, 2001",
+    "from_team": "CIN",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "colemmi01",
+      "hensodr01"
+    ],
+    "to_player_ids": [
+      "penawi01"
+    ]
+  },
+  {
+    "date": "March 24, 2001",
+    "from_team": "NYY",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "leeda01"
+    ],
+    "to_player_ids": [
+      "almanca01"
+    ]
+  },
+  {
+    "date": "March 26, 2001",
+    "from_team": "COL",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "rosebr01"
+    ],
+    "to_player_ids": [
+      "leitema01"
+    ]
+  },
+  {
+    "date": "March 28, 2001",
+    "from_team": "ANA",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "blakel001dar"
+    ],
+    "to_player_ids": [
+      "hillgl01"
+    ]
+  },
+  {
+    "date": "March 28, 2001",
+    "from_team": "FLA",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "crespce01",
+      "kotsama01"
+    ],
+    "to_player_ids": [
+      "ortiz-001oma",
+      "clemema01",
+      "owenser01"
+    ]
+  },
+  {
+    "date": "March 28, 2001",
+    "from_team": "ARI",
+    "to_team": "MIN",
+    "from_player_ids": [
+      "friasha01"
+    ],
+    "to_player_ids": [
+      "moellch01"
+    ]
+  },
+  {
+    "date": "March 28, 2001",
+    "from_team": "CHC",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "hinsker01"
+    ],
+    "to_player_ids": [
+      "cairomi01"
+    ]
+  },
+  {
+    "date": "March 30, 2001",
+    "from_team": "KCR",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "curry-001mic"
+    ],
+    "to_player_ids": [
+      "chaveen01"
+    ]
+  },
+  {
+    "date": "March 30, 2001",
+    "from_team": "CHC",
+    "to_team": "FLA",
+    "from_player_ids": [
+      "maireos01"
+    ],
+    "to_player_ids": [
+      "aybarma01"
+    ]
+  },
+  {
+    "date": "April 4, 2001",
+    "from_team": "COL",
+    "to_team": "MIL",
+    "from_player_ids": [
+      "dejeami01",
+      "leitema01",
+      "penael01"
+    ],
+    "to_player_ids": [
+      "aceveju01",
+      "daviska01",
+      "florejo01"
+    ]
+  },
+  {
+    "date": "April 23, 2001",
+    "from_team": "ARI",
+    "to_team": "COL",
+    "from_player_ids": [
+      "owens-001rya"
+    ],
+    "to_player_ids": [
+      "sosaju01"
+    ]
+  },
+  {
+    "date": "May 8, 2001",
+    "from_team": "MON",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "johnsmi02"
+    ],
+    "to_player_ids": [
+      "cubilda01"
+    ]
+  },
+  {
+    "date": "June 2, 2001",
+    "from_team": "CLE",
+    "to_team": "COL",
+    "from_player_ids": [
+      "cruzja01"
+    ],
+    "to_player_ids": [
+      "bardjo01",
+      "gerutjo01"
+    ]
+  },
+  {
+    "date": "June 5, 2001",
+    "from_team": "KCR",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "santijo03"
+    ],
+    "to_player_ids": [
+      "byrdpa01"
+    ]
+  },
+  {
+    "date": "June 12, 2001",
+    "from_team": "BOS",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "duchsju01"
+    ],
+    "to_player_ids": [
+      "mirabdo01"
+    ]
+  },
+  {
+    "date": "June 13, 2001",
+    "from_team": "NYY",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "marteda01"
+    ],
+    "to_player_ids": [
+      "wilsoen01"
+    ]
+  },
+  {
+    "date": "June 15, 2001",
+    "from_team": "CIN",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "bellro01"
+    ],
+    "to_player_ids": [
+      "encared01",
+      "mateoru01"
+    ]
+  },
+  {
+    "date": "June 19, 2001",
+    "from_team": "ARI",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "ryanro02"
+    ],
+    "to_player_ids": [
+      "chrisry01"
+    ]
+  },
+  {
+    "date": "June 20, 2001",
+    "from_team": "CIN",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "sadledo01"
+    ],
+    "to_player_ids": [
+      "ammons001car"
+    ]
+  },
+  {
+    "date": "June 22, 2001",
+    "from_team": "ATL",
+    "to_team": "CLE",
+    "from_player_ids": [
+      "camero001tro",
+      "rockejo01"
+    ],
+    "to_player_ids": [
+      "karsast01",
+      "reedst01"
+    ]
+  },
+  {
+    "date": "June 23, 2001",
+    "from_team": "DET",
+    "to_team": "HOU",
+    "from_player_ids": [
+      "mlickda01"
+    ],
+    "to_player_ids": [
+      "limajo01"
+    ]
+  },
+  {
+    "date": "June 24, 2001",
+    "from_team": "COL",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "maynebr01"
+    ],
+    "to_player_ids": [
+      "fasansa01",
+      "suzukma01"
+    ]
+  },
+  {
+    "date": "June 27, 2001",
+    "from_team": "COL",
+    "to_team": "HOU",
+    "from_player_ids": [
+      "villoro01"
+    ],
+    "to_player_ids": [
+      "powelja04"
+    ]
+  },
+  {
+    "date": "July 1, 2001",
+    "from_team": "CIN",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "wohlema01"
+    ],
+    "to_player_ids": [
+      "arambo001ric"
+    ]
+  },
+  {
+    "date": "July 3, 2001",
+    "from_team": "MIN",
+    "to_team": "STL",
+    "from_player_ids": [
+      "friasha01"
+    ],
+    "to_player_ids": [
+      "suttola01"
+    ]
+  },
+  {
+    "date": "July 3, 2001",
+    "from_team": "COL",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "gantro01"
+    ],
+    "to_player_ids": [
+      "jenniro01"
+    ]
+  },
+  {
+    "date": "July 4, 2001",
+    "from_team": "NYY",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "boehrbr01"
+    ],
+    "to_player_ids": [
+      "smith-009jos",
+      "estalbo02"
+    ]
+  },
+  {
+    "date": "July 10, 2001",
+    "from_team": "PIT",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "brownem01"
+    ],
+    "to_player_ids": [
+      "garret001sha",
+      "campsh01"
+    ]
+  },
+  {
+    "date": "July 11, 2001",
+    "from_team": "ARI",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "nelsobr01"
+    ],
+    "to_player_ids": [
+      "peterch02"
+    ]
+  },
+  {
+    "date": "July 13, 2001",
+    "from_team": "ANA",
+    "to_team": "COL",
+    "from_player_ids": [
+      "barteki01"
+    ],
+    "to_player_ids": [
+      "figgich01"
+    ]
+  },
+  {
+    "date": "July 13, 2001",
+    "from_team": "CHW",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "chrismc01"
+    ],
+    "to_player_ids": [
+      "parris001wad"
+    ]
+  },
+  {
+    "date": "July 19, 2001",
+    "from_team": "CIN",
+    "to_team": "COL",
+    "from_player_ids": [
+      "ochoaal01"
+    ],
+    "to_player_ids": [
+      "jenniro01",
+      "walketo04"
+    ]
+  },
+  {
+    "date": "July 20, 2001",
+    "from_team": "CHC",
+    "to_team": "CIN",
+    "from_player_ids": [
+      "shaffa001ben",
+      "bookech01"
+    ],
+    "to_player_ids": [
+      "tuckemi01"
+    ]
+  },
+  {
+    "date": "July 23, 2001",
+    "from_team": "NYM",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "prattto02"
+    ],
+    "to_player_ids": [
+      "bennega01"
+    ]
+  },
+  {
+    "date": "July 24, 2001",
+    "from_team": "SFG",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "ozias-001tod",
+      "magruch01",
+      "ramirer01"
+    ],
+    "to_player_ids": [
+      "galaran01"
+    ]
+  },
+  {
+    "date": "July 25, 2001",
+    "from_team": "ARI",
+    "to_team": "TBD",
+    "from_player_ids": [
+      "bierbni01",
+      "contija01"
+    ],
+    "to_player_ids": [
+      "difelmi01",
+      "lopezal02"
+    ]
+  },
+  {
+    "date": "July 25, 2001",
+    "from_team": "COL",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "dyeje01"
+    ],
+    "to_player_ids": [
+      "belitto01",
+      "encarma01",
+      "ortizjo04"
+    ]
+  },
+  {
+    "date": "July 25, 2001",
+    "from_team": "COL",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "perezne01"
+    ],
+    "to_player_ids": [
+      "dyeje01"
+    ]
+  },
+  {
+    "date": "July 27, 2001",
+    "from_team": "NYM",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "cookde01",
+      "wendetu01"
+    ],
+    "to_player_ids": [
+      "walker001ada",
+      "chenbr01"
+    ]
+  },
+  {
+    "date": "July 27, 2001",
+    "from_team": "PHI",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "gomeswa01"
+    ],
+    "to_player_ids": [
+      "crespfe01"
+    ]
+  },
+  {
+    "date": "July 28, 2001",
+    "from_team": "DET",
+    "to_team": "MIN",
+    "from_player_ids": [
+      "jonesto02"
+    ],
+    "to_player_ids": [
+      "redmama01"
+    ]
+  },
+  {
+    "date": "July 30, 2001",
+    "from_team": "NYY",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "blakel001dar",
+      "jodiebr01"
+    ],
+    "to_player_ids": [
+      "hitchst01"
+    ]
+  },
+  {
+    "date": "July 30, 2001",
+    "from_team": "MIN",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "lawtoma02"
+    ],
+    "to_player_ids": [
+      "reedri01"
+    ]
+  },
+  {
+    "date": "July 30, 2001",
+    "from_team": "CHC",
+    "to_team": "MIL",
+    "from_player_ids": [
+      "queveru01",
+      "zoccope01"
+    ],
+    "to_player_ids": [
+      "miniel001rob",
+      "weathda01"
+    ]
+  },
+  {
+    "date": "July 30, 2001",
+    "from_team": "PIT",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "schmija01",
+      "vandejo02"
+    ],
+    "to_player_ids": [
+      "riosar01",
+      "vogelry01"
+    ]
+  },
+  {
+    "date": "July 31, 2001",
+    "from_team": "CLE",
+    "to_team": "MON",
+    "from_player_ids": [
+      "dayza01"
+    ],
+    "to_player_ids": [
+      "bradlmi01"
+    ]
+  },
+  {
+    "date": "July 31, 2001",
+    "from_team": "LAD",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "burnsi001adr",
+      "fettemi01"
+    ],
+    "to_player_ids": [
+      "mulhote01"
+    ]
+  },
+  {
+    "date": "July 31, 2001",
+    "from_team": "HOU",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "mcknito01"
+    ],
+    "to_player_ids": [
+      "willimi03"
+    ]
+  },
+  {
+    "date": "July 31, 2001",
+    "from_team": "BOS",
+    "to_team": "MON",
+    "from_player_ids": [
+      "ohkato01",
+      "rundlri01"
+    ],
+    "to_player_ids": [
+      "urbinug01"
+    ]
+  },
+  {
+    "date": "July 31, 2001",
+    "from_team": "BAL",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "trombmi01"
+    ],
+    "to_player_ids": [
+      "fostekr01",
+      "gilge01"
+    ]
+  },
+  {
+    "date": "July 31, 2001",
+    "from_team": "ATL",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "machaal01",
+      "voylebr01"
+    ],
+    "to_player_ids": [
+      "sanchre01"
+    ]
+  },
+  {
+    "date": "August 6, 2001",
+    "from_team": "COL",
+    "to_team": "FLA",
+    "from_player_ids": [
+      "aceveju01"
+    ],
+    "to_player_ids": [
+      "espada001jos"
+    ]
+  },
+  {
+    "date": "September 4, 2001",
+    "from_team": "CHC",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "fyhrimi01"
+    ],
+    "to_player_ids": [
+      "wenner001mic"
+    ]
+  },
+  {
+    "date": "November 2, 2001",
+    "from_team": "CHC",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "morris002ada"
+    ],
+    "to_player_ids": [
+      "bellhma01"
+    ]
+  },
+  {
+    "date": "November 9, 2001",
+    "from_team": "LAD",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "corder001jes",
+      "jungeer01"
+    ],
+    "to_player_ids": [
+      "daalom01"
+    ]
+  },
+  {
+    "date": "December 7, 2001",
+    "from_team": "OAK",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "hinsker01",
+      "milleju01"
+    ],
+    "to_player_ids": [
+      "kochbi01"
+    ]
+  },
+  {
+    "date": "December 7, 2001",
+    "from_team": "NYM",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "venturo01"
+    ],
+    "to_player_ids": [
+      "justida01"
+    ]
+  },
+  {
+    "date": "December 11, 2001",
+    "from_team": "CHC",
+    "to_team": "FLA",
+    "from_player_ids": [
+      "teutna01"
+    ],
+    "to_player_ids": [
+      "sanchje01"
+    ]
+  },
+  {
+    "date": "December 11, 2001",
+    "from_team": "CIN",
+    "to_team": "DET",
+    "from_player_ids": [
+      "youngdm01"
+    ],
+    "to_player_ids": [
+      "encarju01",
+      "pinedlu01"
+    ]
+  },
+  {
+    "date": "December 12, 2001",
+    "from_team": "BOS",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "evereca01"
+    ],
+    "to_player_ids": [
+      "oliveda02"
+    ]
+  },
+  {
+    "date": "December 13, 2001",
+    "from_team": "LAD",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "ricket001rob",
+      "prokolu01"
+    ],
+    "to_player_ids": [
+      "izturce01",
+      "quantpa01"
+    ]
+  },
+  {
+    "date": "December 13, 2001",
+    "from_team": "BAL",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "wasdijo01"
+    ],
+    "to_player_ids": [
+      "brockch01"
+    ]
+  },
+  {
+    "date": "December 13, 2001",
+    "from_team": "CHW",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "foggjo01",
+      "lowese01",
+      "wellski01"
+    ],
+    "to_player_ids": [
+      "evans-001lee",
+      "ritchto01"
+    ]
+  },
+  {
+    "date": "December 13, 2001",
+    "from_team": "NYY",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "witasja01"
+    ],
+    "to_player_ids": [
+      "vandejo02"
+    ]
+  },
+  {
+    "date": "December 14, 2001",
+    "from_team": "NYM",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "justida01"
+    ],
+    "to_player_ids": [
+      "guthrma01",
+      "yatesty01"
+    ]
+  },
+  {
+    "date": "December 15, 2001",
+    "from_team": "BOS",
+    "to_team": "STL",
+    "from_player_ids": [
+      "asadoo001eri",
+      "brisso001dus",
+      "garcia011lui"
+    ],
+    "to_player_ids": [
+      "hermadu01"
+    ]
+  },
+  {
+    "date": "December 16, 2001",
+    "from_team": "COL",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "cirilje01"
+    ],
+    "to_player_ids": [
+      "fuentbr01",
+      "paniajo01",
+      "starkde01"
+    ]
+  },
+  {
+    "date": "December 16, 2001",
+    "from_team": "NYM",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "relafde01",
+      "shinjts01"
+    ],
+    "to_player_ids": [
+      "estessh01"
+    ]
+  },
+  {
+    "date": "December 17, 2001",
+    "from_team": "ANA",
+    "to_team": "TBD",
+    "from_player_ids": [
+      "cacere001wil"
+    ],
+    "to_player_ids": [
+      "callami01"
+    ]
+  },
+  {
+    "date": "December 18, 2001",
+    "from_team": "NYY",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "castrbe01"
+    ],
+    "to_player_ids": [
+      "reeseke01"
+    ]
+  },
+  {
+    "date": "December 18, 2001",
+    "from_team": "CIN",
+    "to_team": "COL",
+    "from_player_ids": [
+      "reesepo01",
+      "reyesde01"
+    ],
+    "to_player_ids": [
+      "hudsolu01",
+      "whitega01"
+    ]
+  },
+  {
+    "date": "December 18, 2001",
+    "from_team": "CLE",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "rockejo01"
+    ],
+    "to_player_ids": [
+      "elderda01"
+    ]
+  },
+  {
+    "date": "December 19, 2001",
+    "from_team": "BOS",
+    "to_team": "COL",
+    "from_player_ids": [
+      "hattesc01"
+    ],
+    "to_player_ids": [
+      "reesepo01"
+    ]
+  },
+  {
+    "date": "December 20, 2001",
+    "from_team": "CIN",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "shaffa001ben"
+    ],
+    "to_player_ids": [
+      "silvajo01"
+    ]
+  },
+  {
+    "date": "December 22, 2001",
+    "from_team": "CLE",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "roberda07"
+    ],
+    "to_player_ids": [
+      "briden001chr",
+      "hughes001nia"
+    ]
+  },
+  {
+    "date": "December 27, 2001",
+    "from_team": "ANA",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "vaughmo01"
+    ],
+    "to_player_ids": [
+      "appieke01"
+    ]
+  },
+  {
+    "date": "January 2, 2002",
+    "from_team": "OAK",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "wilsoto02"
+    ],
+    "to_player_ids": [
+      "krembl001mic"
+    ]
+  },
+  {
+    "date": "January 7, 2002",
+    "from_team": "ARI",
+    "to_team": "COL",
+    "from_player_ids": [
+      "clossjd01",
+      "custja01"
+    ],
+    "to_player_ids": [
+      "myersmi01"
+    ]
+  },
+  {
+    "date": "January 14, 2002",
+    "from_team": "OAK",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "hartja01",
+      "lairdge01",
+      "ludwiry01",
+      "ramosma01"
+    ],
+    "to_player_ids": [
+      "penaca01",
+      "venafmi01"
+    ]
+  },
+  {
+    "date": "January 15, 2002",
+    "from_team": "ATL",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "brownan01",
+      "jordabr01",
+      "perezod01"
+    ],
+    "to_player_ids": [
+      "sheffga01"
+    ]
+  },
+  {
+    "date": "January 17, 2002",
+    "from_team": "ANA",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "coopebr01"
+    ],
+    "to_player_ids": [
+      "fullmbr01"
+    ]
+  },
+  {
+    "date": "January 18, 2002",
+    "from_team": "ATL",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "perez-002elv"
+    ],
+    "to_player_ids": [
+      "gryboke01"
+    ]
+  },
+  {
+    "date": "January 29, 2002",
+    "from_team": "BAL",
+    "to_team": "CHW",
+    "from_player_ids": [
+      "harriwi02"
+    ],
+    "to_player_ids": [
+      "singlch01"
+    ]
+  },
+  {
+    "date": "February 21, 2002",
+    "from_team": "COL",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "daviska01"
+    ],
+    "to_player_ids": [
+      "britta001cor"
+    ]
+  },
+  {
+    "date": "March 12, 2002",
+    "from_team": "HOU",
+    "to_team": "MON",
+    "from_player_ids": [
+      "trubych01"
+    ],
+    "to_player_ids": [
+      "blumge01"
+    ]
+  },
+  {
+    "date": "March 19, 2002",
+    "from_team": "CHC",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "anders001syk"
+    ],
+    "to_player_ids": [
+      "abreuwi01"
+    ]
+  },
+  {
+    "date": "March 19, 2002",
+    "from_team": "OAK",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "vizcalu01"
+    ],
+    "to_player_ids": [
+      "duchsju01"
+    ]
+  },
+  {
+    "date": "March 20, 2002",
+    "from_team": "ATL",
+    "to_team": "MIL",
+    "from_player_ids": [
+      "bakopa01",
+      "cabrejo01"
+    ],
+    "to_player_ids": [
+      "blanche01"
+    ]
+  },
+  {
+    "date": "March 23, 2002",
+    "from_team": "LAD",
+    "to_team": "MON",
+    "from_player_ids": [
+      "nunez-001jor",
+      "hergema01"
+    ],
+    "to_player_ids": [
+      "motagu01",
+      "ruanwi01"
+    ]
+  },
+  {
+    "date": "March 24, 2002",
+    "from_team": "MIL",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "barkeke01"
+    ],
+    "to_player_ids": [
+      "wathadu01"
+    ]
+  },
+  {
+    "date": "March 24, 2002",
+    "from_team": "MON",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "bayja01",
+      "serraji01"
+    ],
+    "to_player_ids": [
+      "collilo01"
+    ]
+  },
+  {
+    "date": "March 24, 2002",
+    "from_team": "DET",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "gomez-003ric",
+      "cardoja01"
+    ],
+    "to_player_ids": [
+      "jacksda04",
+      "walbema01"
+    ]
+  },
+  {
+    "date": "March 24, 2002",
+    "from_team": "MIL",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "penaje01"
+    ],
+    "to_player_ids": [
+      "vizcalu01"
+    ]
+  },
+  {
+    "date": "March 25, 2002",
+    "from_team": "COL",
+    "to_team": "DET",
+    "from_player_ids": [
+      "paniajo01"
+    ],
+    "to_player_ids": [
+      "merril001ron",
+      "santovi01"
+    ]
+  },
+  {
+    "date": "March 27, 2002",
+    "from_team": "CHW",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "guerrma02"
+    ],
+    "to_player_ids": [
+      "yan---001rud",
+      "marteda01"
+    ]
+  },
+  {
+    "date": "March 27, 2002",
+    "from_team": "CHC",
+    "to_team": "FLA",
+    "from_player_ids": [
+      "cueto-001jos",
+      "jorgery01",
+      "tavarju01",
+      "willido03"
+    ],
+    "to_player_ids": [
+      "alfonan01",
+      "clemema01"
+    ]
+  },
+  {
+    "date": "April 3, 2002",
+    "from_team": "SDP",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "moore-003jas"
+    ],
+    "to_player_ids": [
+      "morenju02"
+    ]
+  },
+  {
+    "date": "April 3, 2002",
+    "from_team": "BAL",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "balejo01"
+    ],
+    "to_player_ids": [
+      "matthga02"
+    ]
+  },
+  {
+    "date": "April 4, 2002",
+    "from_team": "CLE",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "eldrid001ras"
+    ],
+    "to_player_ids": [
+      "magruch01"
+    ]
+  },
+  {
+    "date": "April 9, 2002",
+    "from_team": "ATL",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "kozlobe01"
+    ],
+    "to_player_ids": [
+      "prattan01"
+    ]
+  },
+  {
+    "date": "May 16, 2002",
+    "from_team": "DET",
+    "to_team": "MON",
+    "from_player_ids": [
+      "maciajo01"
+    ],
+    "to_player_ids": [
+      "trubych01"
+    ]
+  },
+  {
+    "date": "May 17, 2002",
+    "from_team": "COL",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "villaed01"
+    ],
+    "to_player_ids": [
+      "rekarbr01"
+    ]
+  },
+  {
+    "date": "May 22, 2002",
+    "from_team": "OAK",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "giambje01"
+    ],
+    "to_player_ids": [
+      "mabryjo01"
+    ]
+  },
+  {
+    "date": "May 26, 2002",
+    "from_team": "PHI",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "politcl01"
+    ],
+    "to_player_ids": [
+      "plesada01"
+    ]
+  },
+  {
+    "date": "June 7, 2002",
+    "from_team": "CIN",
+    "to_team": "CLE",
+    "from_player_ids": [
+      "brousbe01"
+    ],
+    "to_player_ids": [
+      "branyru01"
+    ]
+  },
+  {
+    "date": "June 9, 2002",
+    "from_team": "CHC",
+    "to_team": "MIL",
+    "from_player_ids": [
+      "macharo01"
+    ],
+    "to_player_ids": [
+      "melian001jac"
+    ]
+  },
+  {
+    "date": "June 14, 2002",
+    "from_team": "CIN",
+    "to_team": "MON",
+    "from_player_ids": [
+      "broweji01"
+    ],
+    "to_player_ids": [
+      "chenbr01"
+    ]
+  },
+  {
+    "date": "June 19, 2002",
+    "from_team": "ATL",
+    "to_team": "DET",
+    "from_player_ids": [
+      "lombage01"
+    ],
+    "to_player_ids": [
+      "kellekr01"
+    ]
+  },
+  {
+    "date": "June 23, 2002",
+    "from_team": "BOS",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "baker-001bra",
+      "gieseda01"
+    ],
+    "to_player_ids": [
+      "shibil001and",
+      "embreal01"
+    ]
+  },
+  {
+    "date": "June 27, 2002",
+    "from_team": "CLE",
+    "to_team": "MON",
+    "from_player_ids": [
+      "colonba01",
+      "drewti01"
+    ],
+    "to_player_ids": [
+      "leecl02",
+      "phillbr01",
+      "sizemgr01",
+      "stevele01"
+    ]
+  },
+  {
+    "date": "July 1, 2002",
+    "from_team": "NYY",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "wiggisc01"
+    ],
+    "to_player_ids": [
+      "mondera01"
+    ]
+  },
+  {
+    "date": "July 6, 2002",
+    "from_team": "ARI",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "sanchdu01"
+    ],
+    "to_player_ids": [
+      "fettemi01"
+    ]
+  },
+  {
+    "date": "July 11, 2002",
+    "from_team": "CIN",
+    "to_team": "FLA",
+    "from_player_ids": [
+      "encarju01",
+      "guerrwi01",
+      "snarery01"
+    ],
+    "to_player_ids": [
+      "dempsry01"
+    ]
+  },
+  {
+    "date": "July 11, 2002",
+    "from_team": "CLE",
+    "to_team": "STL",
+    "from_player_ids": [
+      "rodrine01"
+    ],
+    "to_player_ids": [
+      "simone001nei"
+    ]
+  },
+  {
+    "date": "July 12, 2002",
+    "from_team": "MIN",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "buchabr01"
+    ],
+    "to_player_ids": [
+      "bartlja01"
+    ]
+  },
+  {
+    "date": "July 22, 2002",
+    "from_team": "CLE",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "cabrejo02"
+    ],
+    "to_player_ids": [
+      "caracc001lan"
+    ]
+  },
+  {
+    "date": "July 28, 2002",
+    "from_team": "CHW",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "loftoke01"
+    ],
+    "to_player_ids": [
+      "meaux-001rya",
+      "diazfe01"
+    ]
+  },
+  {
+    "date": "July 28, 2002",
+    "from_team": "CLE",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "shueypa01"
+    ],
+    "to_player_ids": [
+      "crucefr01",
+      "mulhote01",
+      "rodriri03"
+    ]
+  },
+  {
+    "date": "July 29, 2002",
+    "from_team": "CHW",
+    "to_team": "COL",
+    "from_player_ids": [
+      "alomasa02"
+    ],
+    "to_player_ids": [
+      "pachec001ene"
+    ]
+  },
+  {
+    "date": "July 30, 2002",
+    "from_team": "BOS",
+    "to_team": "MON",
+    "from_player_ids": [
+      "song--001seu",
+      "kimsu01"
+    ],
+    "to_player_ids": [
+      "floydcl01"
+    ]
+  },
+  {
+    "date": "July 30, 2002",
+    "from_team": "CLE",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "rincori01"
+    ],
+    "to_player_ids": [
+      "mcdouma01"
+    ]
+  },
+  {
+    "date": "July 31, 2002",
+    "from_team": "BOS",
+    "to_team": "CHW",
+    "from_player_ids": [
+      "an----001bye",
+      "francfr01"
+    ],
+    "to_player_ids": [
+      "howrybo01"
+    ]
+  },
+  {
+    "date": "July 31, 2002",
+    "from_team": "NYM",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "reynol003jos",
+      "bayja01",
+      "jonesbo04"
+    ],
+    "to_player_ids": [
+      "middlja01",
+      "reedst01"
+    ]
+  },
+  {
+    "date": "July 31, 2002",
+    "from_team": "COL",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "littlma01",
+      "thomsjo01"
+    ],
+    "to_player_ids": [
+      "stratt002rob",
+      "coreyma02",
+      "paytoja01"
+    ]
+  },
+  {
+    "date": "August 16, 2002",
+    "from_team": "ARI",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "bevis-001pet"
+    ],
+    "to_player_ids": [
+      "littlma01"
+    ]
+  },
+  {
+    "date": "August 19, 2002",
+    "from_team": "SEA",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "vandus001der",
+      "clarkje02"
+    ],
+    "to_player_ids": [
+      "valdeis01"
+    ]
+  },
+  {
+    "date": "October 28, 2002",
+    "from_team": "SEA",
+    "to_team": "TBD",
+    "from_player_ids": [
+      "perezan01",
+      "pinielo01"
+    ],
+    "to_player_ids": [
+      "winnra01"
+    ]
+  },
+  {
+    "date": "November 13, 2002",
+    "from_team": "ARI",
+    "to_team": "CHC",
+    "from_player_ids": [
+      "milleda02"
+    ],
+    "to_player_ids": [
+      "johnso002gar",
+      "noyce-001dav"
+    ]
+  },
+  {
+    "date": "November 15, 2002",
+    "from_team": "MIL",
+    "to_team": "MIN",
+    "from_player_ids": [
+      "oakes-001ger",
+      "yeatma001mat"
+    ],
+    "to_player_ids": [
+      "kinnema01",
+      "valenja01"
+    ]
+  },
+  {
+    "date": "November 15, 2002",
+    "from_team": "DET",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "rivermi02"
+    ],
+    "to_player_ids": [
+      "kingsge01"
+    ]
+  },
+  {
+    "date": "November 16, 2002",
+    "from_team": "OAK",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "lidleco01"
+    ],
+    "to_player_ids": [
+      "mowday001chr",
+      "rousemi01"
+    ]
+  },
+  {
+    "date": "December 4, 2002",
+    "from_team": "CHC",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "hermach01",
+      "hundlto01"
+    ],
+    "to_player_ids": [
+      "grudzma01",
+      "karroer01"
+    ]
+  },
+  {
+    "date": "December 6, 2002",
+    "from_team": "CLE",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "diazei01",
+      "dresery01"
+    ],
+    "to_player_ids": [
+      "hafnetr01",
+      "myettaa01"
+    ]
+  },
+  {
+    "date": "December 15, 2002",
+    "from_team": "BOS",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "hancojo01"
+    ],
+    "to_player_ids": [
+      "giambje01"
+    ]
+  },
+  {
+    "date": "December 16, 2002",
+    "from_team": "COL",
+    "to_team": "HOU",
+    "from_player_ids": [
+      "hall--001vic"
+    ],
+    "to_player_ids": [
+      "cruzne01"
+    ]
+  },
+  {
+    "date": "December 16, 2002",
+    "from_team": "BOS",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "cruzlu01"
+    ],
+    "to_player_ids": [
+      "crespce01"
+    ]
+  },
+  {
+    "date": "December 16, 2002",
+    "from_team": "OAK",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "florejo01"
+    ],
+    "to_player_ids": [
+      "hernan001car"
+    ]
+  },
+  {
+    "date": "December 16, 2002",
+    "from_team": "ATL",
+    "to_team": "MIL",
+    "from_player_ids": [
+      "fostejo01",
+      "helmswe01"
+    ],
+    "to_player_ids": [
+      "kingra01"
+    ]
+  },
+  {
+    "date": "December 17, 2002",
+    "from_team": "ATL",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "mossda01",
+      "valdeme01"
+    ],
+    "to_player_ids": [
+      "ortizru01"
+    ]
+  },
+  {
+    "date": "December 20, 2002",
+    "from_team": "MON",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "hergema01"
+    ],
+    "to_player_ids": [
+      "searle001jon",
+      "youngch03"
+    ]
+  },
+  {
+    "date": "December 20, 2002",
+    "from_team": "ATL",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "millwke01"
+    ],
+    "to_player_ids": [
+      "estrajo01"
+    ]
+  },
+  {
+    "date": "January 11, 2003",
+    "from_team": "DET",
+    "to_team": "FLA",
+    "from_player_ids": [
+      "fuell-001jer",
+      "redmama01"
+    ],
+    "to_player_ids": [
+      "henkel002rob",
+      "knottga01",
+      "roberna01"
+    ]
+  },
+  {
+    "date": "January 15, 2003",
+    "from_team": "CHW",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "candel001edd",
+      "osunaan01"
+    ],
+    "to_player_ids": [
+      "hernaor01"
+    ]
+  },
+  {
+    "date": "January 25, 2003",
+    "from_team": "HOU",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "wardda01"
+    ],
+    "to_player_ids": [
+      "lugoru01"
+    ]
+  },
+  {
+    "date": "January 27, 2003",
+    "from_team": "COL",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "romanja01"
+    ],
+    "to_player_ids": [
+      "allenlu01"
+    ]
+  },
+  {
+    "date": "March 6, 2003",
+    "from_team": "CIN",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "espino001dam",
+      "moye--001ala"
+    ],
+    "to_player_ids": [
+      "austije01",
+      "shackbr01"
+    ]
+  },
+  {
+    "date": "March 21, 2003",
+    "from_team": "BAL",
+    "to_team": "COL",
+    "from_player_ids": [
+      "richach01"
+    ],
+    "to_player_ids": [
+      "custja01"
+    ]
+  },
+  {
+    "date": "March 24, 2003",
+    "from_team": "MIL",
+    "to_team": "TBD",
+    "from_player_ids": [
+      "valenja01"
+    ],
+    "to_player_ids": [
+      "contija01"
+    ]
+  },
+  {
+    "date": "March 25, 2003",
+    "from_team": "ATL",
+    "to_team": "DET",
+    "from_player_ids": [
+      "spurlch01"
+    ],
+    "to_player_ids": [
+      "coenen001mat"
+    ]
+  },
+  {
+    "date": "March 27, 2003",
+    "from_team": "CHW",
+    "to_team": "COL",
+    "from_player_ids": [
+      "parris001wad"
+    ],
+    "to_player_ids": [
+      "gloadro01"
+    ]
+  },
+  {
+    "date": "March 27, 2003",
+    "from_team": "KCR",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "ayala-001oda"
+    ],
+    "to_player_ids": [
+      "lunarfe01"
+    ]
+  },
+  {
+    "date": "May 3, 2003",
+    "from_team": "MON",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "washbu001ben"
+    ],
+    "to_player_ids": [
+      "vitiejo01"
+    ]
+  },
+  {
+    "date": "May 19, 2003",
+    "from_team": "PHI",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "wilson003mic"
+    ],
+    "to_player_ids": [
+      "minorda01"
+    ]
+  },
+  {
+    "date": "May 25, 2003",
+    "from_team": "CLE",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "fyhrimi01"
+    ],
+    "to_player_ids": [
+      "cotto-001lui"
+    ]
+  },
+  {
+    "date": "May 27, 2003",
+    "from_team": "STL",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "asadoo001eri"
+    ],
+    "to_player_ids": [
+      "yanes01"
+    ]
+  },
+  {
+    "date": "May 27, 2003",
+    "from_team": "DET",
+    "to_team": "MIL",
+    "from_player_ids": [
+      "petty-001cha",
+      "varner001gar"
+    ],
+    "to_player_ids": [
+      "sanchal03"
+    ]
+  },
+  {
+    "date": "May 29, 2003",
+    "from_team": "ARI",
+    "to_team": "CHC",
+    "from_player_ids": [
+      "donnech01"
+    ],
+    "to_player_ids": [
+      "ebertde01"
+    ]
+  },
+  {
+    "date": "May 29, 2003",
+    "from_team": "ARI",
+    "to_team": "BOS",
+    "from_player_ids": [
+      "kimby01"
+    ],
+    "to_player_ids": [
+      "hillesh02"
+    ]
+  },
+  {
+    "date": "June 5, 2003",
+    "from_team": "CHC",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "osulli001ste"
+    ],
+    "to_player_ids": [
+      "benesal01"
+    ]
+  },
+  {
+    "date": "June 6, 2003",
+    "from_team": "NYY",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "thamema01"
+    ],
+    "to_player_ids": [
+      "sierrru01"
+    ]
+  },
+  {
+    "date": "June 6, 2003",
+    "from_team": "BOS",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "whitema03"
+    ],
+    "to_player_ids": [
+      "fulse-001she"
+    ]
+  },
+  {
+    "date": "June 20, 2003",
+    "from_team": "CHC",
+    "to_team": "COL",
+    "from_player_ids": [
+      "bellhma01"
+    ],
+    "to_player_ids": [
+      "hernajo01"
+    ]
+  },
+  {
+    "date": "June 22, 2003",
+    "from_team": "BOS",
+    "to_team": "CLE",
+    "from_player_ids": [
+      "santoan01"
+    ],
+    "to_player_ids": [
+      "brownja04"
+    ]
+  },
+  {
+    "date": "June 26, 2003",
+    "from_team": "MON",
+    "to_team": "STL",
+    "from_player_ids": [
+      "collin001pat"
+    ],
+    "to_player_ids": [
+      "josepke01"
+    ]
+  },
+  {
+    "date": "July 6, 2003",
+    "from_team": "KCR",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "rodrig001vic",
+      "mullesc01"
+    ],
+    "to_player_ids": [
+      "dawkitr01"
+    ]
+  },
+  {
+    "date": "July 8, 2003",
+    "from_team": "PIT",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "wasdijo01"
+    ],
+    "to_player_ids": [
+      "thompri02"
+    ]
+  },
+  {
+    "date": "July 9, 2003",
+    "from_team": "CLE",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "myettaa01"
+    ],
+    "to_player_ids": [
+      "moutoly01"
+    ]
+  },
+  {
+    "date": "July 10, 2003",
+    "from_team": "KCR",
+    "to_team": "MIL",
+    "from_player_ids": [
+      "machaal01",
+      "obermwe01"
+    ],
+    "to_player_ids": [
+      "leskacu01"
+    ]
+  },
+  {
+    "date": "July 11, 2003",
+    "from_team": "FLA",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "smith-031wil",
+      "gonzaad01",
+      "snarery01"
+    ],
+    "to_player_ids": [
+      "urbinug01"
+    ]
+  },
+  {
+    "date": "July 13, 2003",
+    "from_team": "COL",
+    "to_team": "DET",
+    "from_player_ids": [
+      "petribe01"
+    ],
+    "to_player_ids": [
+      "bernead01"
+    ]
+  },
+  {
+    "date": "July 16, 2003",
+    "from_team": "NYM",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "benitar01"
+    ],
+    "to_player_ids": [
+      "bicond001rya",
+      "anderja01",
+      "garcian01"
+    ]
+  },
+  {
+    "date": "July 18, 2003",
+    "from_team": "CLE",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "rodriri03",
+      "spencsh01"
+    ],
+    "to_player_ids": [
+      "ludwiry01"
+    ]
+  },
+  {
+    "date": "July 18, 2003",
+    "from_team": "ARI",
+    "to_team": "COL",
+    "from_player_ids": [
+      "womacto01"
+    ],
+    "to_player_ids": [
+      "watson002mic"
+    ]
+  },
+  {
+    "date": "July 22, 2003",
+    "from_team": "BOS",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "lyonbr01",
+      "martian01"
+    ],
+    "to_player_ids": [
+      "gonzami02",
+      "sauersc01"
+    ]
+  },
+  {
+    "date": "July 28, 2003",
+    "from_team": "KCR",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "hillje02"
+    ],
+    "to_player_ids": [
+      "lloydgr01"
+    ]
+  },
+  {
+    "date": "July 30, 2003",
+    "from_team": "CIN",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "guilljo01"
+    ],
+    "to_player_ids": [
+      "bruksc001jef",
+      "haranaa01",
+      "valenjo04"
+    ]
+  },
+  {
+    "date": "July 30, 2003",
+    "from_team": "ANA",
+    "to_team": "CHW",
+    "from_player_ids": [
+      "nickldo01",
+      "schoesc01"
+    ],
+    "to_player_ids": [
+      "bittne001tim",
+      "dunnsc01",
+      "glovega01"
+    ]
+  },
+  {
+    "date": "July 31, 2003",
+    "from_team": "LAD",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "crosbbu01",
+      "proctsc01"
+    ],
+    "to_player_ids": [
+      "venturo01"
+    ]
+  },
+  {
+    "date": "July 31, 2003",
+    "from_team": "BAL",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "ponsosi01"
+    ],
+    "to_player_ids": [
+      "hannam001rya",
+      "ainswku01",
+      "mossda01"
+    ]
+  },
+  {
+    "date": "August 6, 2003",
+    "from_team": "NYY",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "benitar01"
+    ],
+    "to_player_ids": [
+      "nelsoje01"
+    ]
+  },
+  {
+    "date": "August 8, 2003",
+    "from_team": "ARI",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "abbotpa01"
+    ],
+    "to_player_ids": [
+      "leclai001ari"
+    ]
+  },
+  {
+    "date": "August 17, 2003",
+    "from_team": "CHC",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "sadlera01"
+    ],
+    "to_player_ids": [
+      "simonra01"
+    ]
+  },
+  {
+    "date": "August 19, 2003",
+    "from_team": "CHC",
+    "to_team": "COL",
+    "from_player_ids": [
+      "ramire001emm"
+    ],
+    "to_player_ids": [
+      "womacto01"
+    ]
+  },
+  {
+    "date": "August 19, 2003",
+    "from_team": "MIL",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "younger01"
+    ],
+    "to_player_ids": [
+      "bruso-001gre"
+    ]
+  },
+  {
+    "date": "August 22, 2003",
+    "from_team": "NYY",
+    "to_team": "STL",
+    "from_player_ids": [
+      "hitchst01"
+    ],
+    "to_player_ids": [
+      "julian001ben",
+      "pope--001jus"
+    ]
+  },
+  {
+    "date": "August 25, 2003",
+    "from_team": "CHC",
+    "to_team": "CIN",
+    "from_player_ids": [
+      "nortoph01"
+    ],
+    "to_player_ids": [
+      "koronjo01"
+    ]
+  },
+  {
+    "date": "August 26, 2003",
+    "from_team": "KCR",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "tierne001chr",
+      "sanchbr01"
+    ],
+    "to_player_ids": [
+      "whitero02"
+    ]
+  },
+  {
+    "date": "August 28, 2003",
+    "from_team": "BOS",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "miniel001ren"
+    ],
+    "to_player_ids": [
+      "merlolo01"
+    ]
+  },
+  {
+    "date": "August 31, 2003",
+    "from_team": "BAL",
+    "to_team": "FLA",
+    "from_player_ids": [
+      "coninje01"
+    ],
+    "to_player_ids": [
+      "levins001don",
+      "bautide01"
+    ]
+  },
+  {
+    "date": "August 31, 2003",
+    "from_team": "CIN",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "stinnke01"
+    ],
+    "to_player_ids": [
+      "valener01"
+    ]
+  },
+  {
+    "date": "September 6, 2003",
+    "from_team": "CLE",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "requen001rub"
+    ],
+    "to_player_ids": [
+      "leeda01"
+    ]
+  },
+  {
+    "date": "September 9, 2003",
+    "from_team": "MIN",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "searsto01"
+    ],
+    "to_player_ids": [
+      "garcia004ale"
+    ]
+  },
+  {
+    "date": "November 3, 2003",
+    "from_team": "HOU",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "wagnebi02"
+    ],
+    "to_player_ids": [
+      "astacez01",
+      "buchhta01",
+      "duckwbr01"
+    ]
+  },
+  {
+    "date": "November 18, 2003",
+    "from_team": "OAK",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "lillyte01"
+    ],
+    "to_player_ids": [
+      "kieltbo01"
+    ]
+  },
+  {
+    "date": "November 25, 2003",
+    "from_team": "CHC",
+    "to_team": "FLA",
+    "from_player_ids": [
+      "nannin001mic",
+      "choihe01"
+    ],
+    "to_player_ids": [
+      "leede02"
+    ]
+  },
+  {
+    "date": "November 26, 2003",
+    "from_team": "OAK",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "hernara02",
+      "longte01"
+    ],
+    "to_player_ids": [
+      "kotsama01"
+    ]
+  },
+  {
+    "date": "November 28, 2003",
+    "from_team": "ARI",
+    "to_team": "BOS",
+    "from_player_ids": [
+      "schilcu01"
+    ],
+    "to_player_ids": [
+      "goss--001mic",
+      "fossuca01",
+      "lyonbr01",
+      "rosajo01"
+    ]
+  },
+  {
+    "date": "December 2, 2003",
+    "from_team": "CHW",
+    "to_team": "COL",
+    "from_player_ids": [
+      "milesaa01"
+    ],
+    "to_player_ids": [
+      "uribeju01"
+    ]
+  },
+  {
+    "date": "December 13, 2003",
+    "from_team": "FLA",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "encarju01"
+    ],
+    "to_player_ids": [
+      "ezi---001tra"
+    ]
+  },
+  {
+    "date": "December 13, 2003",
+    "from_team": "ATL",
+    "to_team": "STL",
+    "from_player_ids": [
+      "kingra01",
+      "marquja01",
+      "wainwad01"
+    ],
+    "to_player_ids": [
+      "drewj.01",
+      "marreel01"
+    ]
+  },
+  {
+    "date": "December 14, 2003",
+    "from_team": "HOU",
+    "to_team": "TBD",
+    "from_player_ids": [
+      "blumge01"
+    ],
+    "to_player_ids": [
+      "backebr01"
+    ]
+  },
+  {
+    "date": "December 15, 2003",
+    "from_team": "COL",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "buglov001chr"
+    ],
+    "to_player_ids": [
+      "simpsal01"
+    ]
+  },
+  {
+    "date": "December 16, 2003",
+    "from_team": "MON",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "vazquja01"
+    ],
+    "to_player_ids": [
+      "choatra01",
+      "johnsni01",
+      "riverju01"
+    ]
+  },
+  {
+    "date": "December 19, 2003",
+    "from_team": "CHC",
+    "to_team": "MON",
+    "from_player_ids": [
+      "chavez001wil"
+    ],
+    "to_player_ids": [
+      "maciajo01"
+    ]
+  },
+  {
+    "date": "January 5, 2004",
+    "from_team": "CLE",
+    "to_team": "MON",
+    "from_player_ids": [
+      "churcry01",
+      "izturma01"
+    ],
+    "to_player_ids": [
+      "stewasc01"
+    ]
+  },
+  {
+    "date": "January 8, 2004",
+    "from_team": "DET",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "gonzal006jua",
+      "santira01"
+    ],
+    "to_player_ids": [
+      "guillca01"
+    ]
+  },
+  {
+    "date": "January 26, 2004",
+    "from_team": "KCR",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "sedlash01"
+    ],
+    "to_player_ids": [
+      "cerdaja01"
+    ]
+  },
+  {
+    "date": "February 5, 2004",
+    "from_team": "NYY",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "garcia009jos"
+    ],
+    "to_player_ids": [
+      "lambmi01"
+    ]
+  },
+  {
+    "date": "March 21, 2004",
+    "from_team": "BOS",
+    "to_team": "STL",
+    "from_player_ids": [
+      "womacto01"
+    ],
+    "to_player_ids": [
+      "duffma01"
+    ]
+  },
+  {
+    "date": "March 25, 2004",
+    "from_team": "HOU",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "deleon001jua"
+    ],
+    "to_player_ids": [
+      "lambmi01"
+    ]
+  },
+  {
+    "date": "March 25, 2004",
+    "from_team": "ATL",
+    "to_team": "CHC",
+    "from_player_ids": [
+      "lewis-004ric",
+      "prattan01"
+    ],
+    "to_player_ids": [
+      "cruzju02",
+      "smythst01"
+    ]
+  },
+  {
+    "date": "March 26, 2004",
+    "from_team": "ATL",
+    "to_team": "CIN",
+    "from_player_ids": [
+      "nelson001ken",
+      "bongju01"
+    ],
+    "to_player_ids": [
+      "reitsch01"
+    ]
+  },
+  {
+    "date": "March 27, 2004",
+    "from_team": "CHW",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "gintema01"
+    ],
+    "to_player_ids": [
+      "perezti01"
+    ]
+  },
+  {
+    "date": "March 27, 2004",
+    "from_team": "ARI",
+    "to_team": "MON",
+    "from_player_ids": [
+      "pattejo02"
+    ],
+    "to_player_ids": [
+      "choatra01"
+    ]
+  },
+  {
+    "date": "March 29, 2004",
+    "from_team": "LAD",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "frasoja01"
+    ],
+    "to_player_ids": [
+      "werthja01"
+    ]
+  },
+  {
+    "date": "March 29, 2004",
+    "from_team": "SDP",
+    "to_team": "STL",
+    "from_player_ids": [
+      "huntebr02"
+    ],
+    "to_player_ids": [
+      "robinke02"
+    ]
+  },
+  {
+    "date": "March 30, 2004",
+    "from_team": "MIL",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "estrele01",
+      "frankwa01"
+    ],
+    "to_player_ids": [
+      "woolar001gle",
+      "villaca01"
+    ]
+  },
+  {
+    "date": "March 31, 2004",
+    "from_team": "CLE",
+    "to_team": "HOU",
+    "from_player_ids": [
+      "scottlu01"
+    ],
+    "to_player_ids": [
+      "roberje02"
+    ]
+  },
+  {
+    "date": "April 1, 2004",
+    "from_team": "DET",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "rossco01"
+    ],
+    "to_player_ids": [
+      "colyest01"
+    ]
+  },
+  {
+    "date": "April 3, 2004",
+    "from_team": "LAD",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "cabrejo02"
+    ],
+    "to_player_ids": [
+      "ketchn001rya",
+      "loopeaa01"
+    ]
+  },
+  {
+    "date": "April 3, 2004",
+    "from_team": "FLA",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "nealbl01"
+    ],
+    "to_player_ids": [
+      "howarbe01"
+    ]
+  },
+  {
+    "date": "April 3, 2004",
+    "from_team": "LAD",
+    "to_team": "TBD",
+    "from_player_ids": [
+      "romanja01"
+    ],
+    "to_player_ids": [
+      "perezan01"
+    ]
+  },
+  {
+    "date": "April 3, 2004",
+    "from_team": "MON",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "mckinl001jos",
+      "youngch03"
+    ],
+    "to_player_ids": [
+      "echols001jus",
+      "diazei01"
+    ]
+  },
+  {
+    "date": "April 4, 2004",
+    "from_team": "NYM",
+    "to_team": "STL",
+    "from_player_ids": [
+      "cedenro01"
+    ],
+    "to_player_ids": [
+      "delgawi01"
+    ]
+  },
+  {
+    "date": "April 8, 2004",
+    "from_team": "FLA",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "mcleama01"
+    ],
+    "to_player_ids": [
+      "gaal--001bry"
+    ]
+  },
+  {
+    "date": "April 13, 2004",
+    "from_team": "LAD",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "loopeaa01"
+    ],
+    "to_player_ids": [
+      "bott--001gle"
+    ]
+  },
+  {
+    "date": "April 17, 2004",
+    "from_team": "HOU",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "saarlki01"
+    ],
+    "to_player_ids": [
+      "harvich01"
+    ]
+  },
+  {
+    "date": "April 25, 2004",
+    "from_team": "CLE",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "dyson-001col"
+    ],
+    "to_player_ids": [
+      "whiteri01"
+    ]
+  },
+  {
+    "date": "April 25, 2004",
+    "from_team": "ATL",
+    "to_team": "CLE",
+    "from_player_ids": [
+      "branyru01"
+    ],
+    "to_player_ids": [
+      "sturki001sco"
+    ]
+  },
+  {
+    "date": "May 7, 2004",
+    "from_team": "MON",
+    "to_team": "STL",
+    "from_player_ids": [
+      "dequin001ben"
+    ],
+    "to_player_ids": [
+      "horgajo01"
+    ]
+  },
+  {
+    "date": "May 15, 2004",
+    "from_team": "LAD",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "sturtta01"
+    ],
+    "to_player_ids": [
+      "myrowbr01"
+    ]
+  },
+  {
+    "date": "May 31, 2004",
+    "from_team": "CHC",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "jacksda04"
+    ],
+    "to_player_ids": [
+      "dawkitr01"
+    ]
+  },
+  {
+    "date": "June 7, 2004",
+    "from_team": "MIL",
+    "to_team": "MON",
+    "from_player_ids": [
+      "belche001jas",
+      "childja01"
+    ],
+    "to_player_ids": [
+      "bergepe01",
+      "riversa01"
+    ]
+  },
+  {
+    "date": "June 16, 2004",
+    "from_team": "MON",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "matosju01"
+    ],
+    "to_player_ids": [
+      "raymun001gre"
+    ]
+  },
+  {
+    "date": "June 17, 2004",
+    "from_team": "HOU",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "hidalri01"
+    ],
+    "to_player_ids": [
+      "griffje01",
+      "weathda01"
+    ]
+  },
+  {
+    "date": "June 21, 2004",
+    "from_team": "BAL",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "bautide01"
+    ],
+    "to_player_ids": [
+      "grimsja01"
+    ]
+  },
+  {
+    "date": "June 27, 2004",
+    "from_team": "CHW",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "morsemi01",
+      "olivomi01",
+      "reedje03"
+    ],
+    "to_player_ids": [
+      "davisbe01",
+      "garcifr03"
+    ]
+  },
+  {
+    "date": "July 2, 2004",
+    "from_team": "BOS",
+    "to_team": "CHC",
+    "from_player_ids": [
+      "shipma001and"
+    ],
+    "to_player_ids": [
+      "anderji02"
+    ]
+  },
+  {
+    "date": "July 18, 2004",
+    "from_team": "CHW",
+    "to_team": "MON",
+    "from_player_ids": [
+      "majewga01",
+      "rauchjo01"
+    ],
+    "to_player_ids": [
+      "evereca01"
+    ]
+  },
+  {
+    "date": "July 19, 2004",
+    "from_team": "BAL",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "dejeami01"
+    ],
+    "to_player_ids": [
+      "garcika01"
+    ]
+  },
+  {
+    "date": "July 23, 2004",
+    "from_team": "KCR",
+    "to_team": "MON",
+    "from_player_ids": [
+      "shortri01"
+    ],
+    "to_player_ids": [
+      "randasc01"
+    ]
+  },
+  {
+    "date": "July 24, 2004",
+    "from_team": "BOS",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "hattijo01"
+    ],
+    "to_player_ids": [
+      "adamste01"
+    ]
+  },
+  {
+    "date": "July 30, 2004",
+    "from_team": "FLA",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "choihe01",
+      "murphbi02",
+      "pennybr01"
+    ],
+    "to_player_ids": [
+      "encarju01",
+      "loducpa01",
+      "motagu01"
+    ]
+  },
+  {
+    "date": "July 30, 2004",
+    "from_team": "SDP",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "huberjo01"
+    ],
+    "to_player_ids": [
+      "hanseda01"
+    ]
+  },
+  {
+    "date": "July 30, 2004",
+    "from_team": "CIN",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "correl001ric",
+      "jonesto02"
+    ],
+    "to_player_ids": [
+      "hancojo01",
+      "machaan01"
+    ]
+  },
+  {
+    "date": "July 30, 2004",
+    "from_team": "NYM",
+    "to_team": "TBD",
+    "from_player_ids": [
+      "diazjo01",
+      "kazmisc01"
+    ],
+    "to_player_ids": [
+      "fortuba01",
+      "zambrvi01"
+    ]
+  },
+  {
+    "date": "July 30, 2004",
+    "from_team": "PHI",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "ledeeri01",
+      "simonal01"
+    ],
+    "to_player_ids": [
+      "rodrife01"
+    ]
+  },
+  {
+    "date": "July 30, 2004",
+    "from_team": "KCR",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "bautijo02"
+    ],
+    "to_player_ids": [
+      "huberju01"
+    ]
+  },
+  {
+    "date": "July 30, 2004",
+    "from_team": "NYM",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "peters002mat",
+      "bautijo02",
+      "wiggity01"
+    ],
+    "to_player_ids": [
+      "bensokr01",
+      "keppije01"
+    ]
+  },
+  {
+    "date": "July 31, 2004",
+    "from_team": "ATL",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "merric001mat"
+    ],
+    "to_player_ids": [
+      "martito02"
+    ]
+  },
+  {
+    "date": "July 31, 2004",
+    "from_team": "BOS",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "stanle001hen"
+    ],
+    "to_player_ids": [
+      "roberda07"
+    ]
+  },
+  {
+    "date": "July 31, 2004",
+    "from_team": "FLA",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "chicktr01"
+    ],
+    "to_player_ids": [
+      "valdeis01"
+    ]
+  },
+  {
+    "date": "July 31, 2004",
+    "from_team": "ARI",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "finlest01",
+      "maynebr01"
+    ],
+    "to_player_ids": [
+      "abercr001reg",
+      "hillko01",
+      "murphbi02"
+    ]
+  },
+  {
+    "date": "July 31, 2004",
+    "from_team": "FLA",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "nunezab02"
+    ],
+    "to_player_ids": [
+      "seaneru01"
+    ]
+  },
+  {
+    "date": "August 3, 2004",
+    "from_team": "CLE",
+    "to_team": "MON",
+    "from_player_ids": [
+      "roberje02"
+    ],
+    "to_player_ids": [
+      "marcea001pie"
+    ]
+  },
+  {
+    "date": "August 4, 2004",
+    "from_team": "CLE",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "crozier01"
+    ],
+    "to_player_ids": [
+      "phelpjo01"
+    ]
+  },
+  {
+    "date": "August 10, 2004",
+    "from_team": "KCR",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "venafmi01"
+    ],
+    "to_player_ids": [
+      "nina--001elv"
+    ]
+  },
+  {
+    "date": "August 17, 2004",
+    "from_team": "LAD",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "socarr001ant"
+    ],
+    "to_player_ids": [
+      "wilsoto02"
+    ]
+  },
+  {
+    "date": "August 19, 2004",
+    "from_team": "ARI",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "desseel01"
+    ],
+    "to_player_ids": [
+      "milons001jer"
+    ]
+  },
+  {
+    "date": "August 27, 2004",
+    "from_team": "HOU",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "seuss-001ada"
+    ],
+    "to_player_ids": [
+      "wheelda01"
+    ]
+  },
+  {
+    "date": "August 31, 2004",
+    "from_team": "MIN",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "garbe-001bra"
+    ],
+    "to_player_ids": [
+      "bordepa01"
+    ]
+  },
+  {
+    "date": "September 2, 2004",
+    "from_team": "MIL",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "burbada01"
+    ],
+    "to_player_ids": [
+      "habel-001jos"
+    ]
+  },
+  {
+    "date": "November 19, 2004",
+    "from_team": "SDP",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "hogan-002wil"
+    ],
+    "to_player_ids": [
+      "willira01"
+    ]
+  },
+  {
+    "date": "November 19, 2004",
+    "from_team": "ANA",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "guilljo01"
+    ],
+    "to_player_ids": [
+      "izturma01",
+      "riverju01"
+    ]
+  },
+  {
+    "date": "November 24, 2004",
+    "from_team": "PIT",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "davisjj01"
+    ],
+    "to_player_ids": [
+      "sucre-001ant"
+    ]
+  },
+  {
+    "date": "December 3, 2004",
+    "from_team": "NYY",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "loftoke01"
+    ],
+    "to_player_ids": [
+      "rodrife01"
+    ]
+  },
+  {
+    "date": "December 3, 2004",
+    "from_team": "NYM",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "stantmi02"
+    ],
+    "to_player_ids": [
+      "heredfe01"
+    ]
+  },
+  {
+    "date": "December 11, 2004",
+    "from_team": "CLE",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "lawtoma02"
+    ],
+    "to_player_ids": [
+      "rhodear01"
+    ]
+  },
+  {
+    "date": "December 14, 2004",
+    "from_team": "ANA",
+    "to_team": "CIN",
+    "from_player_ids": [
+      "ortizra02"
+    ],
+    "to_player_ids": [
+      "moseldu01"
+    ]
+  },
+  {
+    "date": "December 16, 2004",
+    "from_team": "ATL",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "cruzju02",
+      "meyerda02",
+      "thomach01"
+    ],
+    "to_player_ids": [
+      "hudsoti01"
+    ]
+  },
+  {
+    "date": "December 16, 2004",
+    "from_team": "MIL",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "ginteke01"
+    ],
+    "to_player_ids": [
+      "cruzne02",
+      "lehrju01"
+    ]
+  },
+  {
+    "date": "December 18, 2004",
+    "from_team": "OAK",
+    "to_team": "STL",
+    "from_player_ids": [
+      "muldema01"
+    ],
+    "to_player_ids": [
+      "bartoda02",
+      "calerki01",
+      "harenda01"
+    ]
+  },
+  {
+    "date": "December 20, 2004",
+    "from_team": "COL",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "greense01"
+    ],
+    "to_player_ids": [
+      "tayloaa01"
+    ]
+  },
+  {
+    "date": "January 5, 2005",
+    "from_team": "DET",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "hernaan01"
+    ],
+    "to_player_ids": [
+      "wilsova01"
+    ]
+  },
+  {
+    "date": "January 11, 2005",
+    "from_team": "ARI",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "juarez001wil",
+      "muegge001dan",
+      "navardi01",
+      "perezbe01"
+    ],
+    "to_player_ids": [
+      "greensh01"
+    ]
+  },
+  {
+    "date": "January 12, 2005",
+    "from_team": "ARI",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "hillesh02"
+    ],
+    "to_player_ids": [
+      "peterad02"
+    ]
+  },
+  {
+    "date": "February 9, 2005",
+    "from_team": "CHC",
+    "to_team": "DET",
+    "from_player_ids": [
+      "farnsky01"
+    ],
+    "to_player_ids": [
+      "flower001cla",
+      "mooresc02",
+      "novoaro01"
+    ]
+  },
+  {
+    "date": "February 13, 2005",
+    "from_team": "CHW",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "escobal01"
+    ],
+    "to_player_ids": [
+      "owensje01"
+    ]
+  },
+  {
+    "date": "March 20, 2005",
+    "from_team": "LAD",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "ishiika01"
+    ],
+    "to_player_ids": [
+      "phillja04"
+    ]
+  },
+  {
+    "date": "March 22, 2005",
+    "from_team": "BOS",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "hyzduad01"
+    ],
+    "to_player_ids": [
+      "nealbl01"
+    ]
+  },
+  {
+    "date": "March 22, 2005",
+    "from_team": "TOR",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "godwity01"
+    ],
+    "to_player_ids": [
+      "widema001aar"
+    ]
+  },
+  {
+    "date": "March 26, 2005",
+    "from_team": "CHC",
+    "to_team": "MIL",
+    "from_player_ids": [
+      "ezi---001tra"
+    ],
+    "to_player_ids": [
+      "johnsma02"
+    ]
+  },
+  {
+    "date": "March 29, 2005",
+    "from_team": "BOS",
+    "to_team": "STL",
+    "from_player_ids": [
+      "delacr005car",
+      "ool---001kev"
+    ],
+    "to_player_ids": [
+      "myersmi01"
+    ]
+  },
+  {
+    "date": "March 29, 2005",
+    "from_team": "CHC",
+    "to_team": "CLE",
+    "from_player_ids": [
+      "bay---001ron"
+    ],
+    "to_player_ids": [
+      "bartocl01"
+    ]
+  },
+  {
+    "date": "March 29, 2005",
+    "from_team": "LAA",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "nievewi01"
+    ],
+    "to_player_ids": [
+      "prinzbr01"
+    ]
+  },
+  {
+    "date": "March 30, 2005",
+    "from_team": "BAL",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "rileyma01"
+    ],
+    "to_player_ids": [
+      "nivarra01"
+    ]
+  },
+  {
+    "date": "March 31, 2005",
+    "from_team": "ATL",
+    "to_team": "TBD",
+    "from_player_ids": [
+      "greenni01"
+    ],
+    "to_player_ids": [
+      "sosajo02"
+    ]
+  },
+  {
+    "date": "April 2, 2005",
+    "from_team": "DET",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "colyest01"
+    ],
+    "to_player_ids": [
+      "gintema01"
+    ]
+  },
+  {
+    "date": "April 8, 2005",
+    "from_team": "COL",
+    "to_team": "TBD",
+    "from_player_ids": [
+      "taylore01"
+    ],
+    "to_player_ids": [
+      "seaybo01"
+    ]
+  },
+  {
+    "date": "April 9, 2005",
+    "from_team": "CIN",
+    "to_team": "COL",
+    "from_player_ids": [
+      "acevejo01"
+    ],
+    "to_player_ids": [
+      "simpsal01"
+    ]
+  },
+  {
+    "date": "May 14, 2005",
+    "from_team": "PHI",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "byrdma01"
+    ],
+    "to_player_ids": [
+      "chaveen01"
+    ]
+  },
+  {
+    "date": "June 8, 2005",
+    "from_team": "DET",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "martira03",
+      "urbinug01"
+    ],
+    "to_player_ids": [
+      "polanpl01"
+    ]
+  },
+  {
+    "date": "June 9, 2005",
+    "from_team": "SDP",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "bumste001mic",
+      "spiehs001ran"
+    ],
+    "to_player_ids": [
+      "valdewi01"
+    ]
+  },
+  {
+    "date": "June 10, 2005",
+    "from_team": "MIL",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "spiveju01"
+    ],
+    "to_player_ids": [
+      "ohkato01"
+    ]
+  },
+  {
+    "date": "July 7, 2005",
+    "from_team": "BOS",
+    "to_team": "CLE",
+    "from_player_ids": [
+      "vazqura01"
+    ],
+    "to_player_ids": [
+      "coraal01"
+    ]
+  },
+  {
+    "date": "July 13, 2005",
+    "from_team": "COL",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "kennejo04",
+      "witasja01"
+    ],
+    "to_player_ids": [
+      "byrneer01",
+      "quintom01"
+    ]
+  },
+  {
+    "date": "July 18, 2005",
+    "from_team": "CHC",
+    "to_team": "CLE",
+    "from_player_ids": [
+      "duboija01"
+    ],
+    "to_player_ids": [
+      "gerutjo01"
+    ]
+  },
+  {
+    "date": "July 19, 2005",
+    "from_team": "BOS",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "cedeno002jua",
+      "ambrech01"
+    ],
+    "to_player_ids": [
+      "graffto01"
+    ]
+  },
+  {
+    "date": "July 19, 2005",
+    "from_team": "BOS",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "cassisc01"
+    ],
+    "to_player_ids": [
+      "hyzduad01"
+    ]
+  },
+  {
+    "date": "July 21, 2005",
+    "from_team": "ATL",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "gryboke01"
+    ],
+    "to_player_ids": [
+      "lorenz001mat"
+    ]
+  },
+  {
+    "date": "July 23, 2005",
+    "from_team": "CIN",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "randajo01"
+    ],
+    "to_player_ids": [
+      "chicktr01",
+      "germaju01"
+    ]
+  },
+  {
+    "date": "July 28, 2005",
+    "from_team": "COL",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "chacosh01"
+    ],
+    "to_player_ids": [
+      "sierra001edw",
+      "ramirra02"
+    ]
+  },
+  {
+    "date": "July 28, 2005",
+    "from_team": "PIT",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "rossda01"
+    ],
+    "to_player_ids": [
+      "furmajj01"
+    ]
+  },
+  {
+    "date": "July 30, 2005",
+    "from_team": "BAL",
+    "to_team": "COL",
+    "from_player_ids": [
+      "bigbila01"
+    ],
+    "to_player_ids": [
+      "byrneer01"
+    ]
+  },
+  {
+    "date": "July 30, 2005",
+    "from_team": "SEA",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "winnra01"
+    ],
+    "to_player_ids": [
+      "foppeje01",
+      "torreyo01"
+    ]
+  },
+  {
+    "date": "July 31, 2005",
+    "from_team": "CHW",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "meaux-001rya"
+    ],
+    "to_player_ids": [
+      "blumge01"
+    ]
+  },
+  {
+    "date": "July 31, 2005",
+    "from_team": "FLA",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "flanne001mic",
+      "bazaryo01"
+    ],
+    "to_player_ids": [
+      "villoro01"
+    ]
+  },
+  {
+    "date": "July 31, 2005",
+    "from_team": "ATL",
+    "to_team": "DET",
+    "from_player_ids": [
+      "colonro01",
+      "minerza01"
+    ],
+    "to_player_ids": [
+      "farnsky01"
+    ]
+  },
+  {
+    "date": "July 31, 2005",
+    "from_team": "SDP",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "mateo-001nat",
+      "ojedami01"
+    ],
+    "to_player_ids": [
+      "olivomi01"
+    ]
+  },
+  {
+    "date": "August 27, 2005",
+    "from_team": "PHI",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "pichar001kel"
+    ],
+    "to_player_ids": [
+      "tuckemi01"
+    ]
+  },
+  {
+    "date": "August 27, 2005",
+    "from_team": "CHC",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "lawtoma02"
+    ],
+    "to_player_ids": [
+      "bergju01"
+    ]
+  },
+  {
+    "date": "August 29, 2005",
+    "from_team": "ATL",
+    "to_team": "CHC",
+    "from_player_ids": [
+      "blackf001tod",
+      "burrow001ang"
+    ],
+    "to_player_ids": [
+      "hollato01"
+    ]
+  },
+  {
+    "date": "August 30, 2005",
+    "from_team": "LAA",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "ray---001ron",
+      "bergmdu01"
+    ],
+    "to_player_ids": [
+      "chrisja01"
+    ]
+  },
+  {
+    "date": "August 30, 2005",
+    "from_team": "SFG",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "cruzde01"
+    ],
+    "to_player_ids": [
+      "cox---001ben"
+    ]
+  },
+  {
+    "date": "August 31, 2005",
+    "from_team": "SDP",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "jimene002jua"
+    ],
+    "to_player_ids": [
+      "alexama02"
+    ]
+  },
+  {
+    "date": "September 29, 2005",
+    "from_team": "BOS",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "peralt001yad",
+      "taylor001rhy"
+    ],
+    "to_player_ids": [
+      "stantmi02"
+    ]
+  },
+  {
+    "date": "November 16, 2005",
+    "from_team": "CHC",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "leicejo01"
+    ],
+    "to_player_ids": [
+      "branno001cli"
+    ]
+  },
+  {
+    "date": "November 16, 2005",
+    "from_team": "FLA",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "villoro01"
+    ],
+    "to_player_ids": [
+      "julian001ben"
+    ]
+  },
+  {
+    "date": "November 18, 2005",
+    "from_team": "NYM",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "camermi01"
+    ],
+    "to_player_ids": [
+      "nadyxa01"
+    ]
+  },
+  {
+    "date": "November 24, 2005",
+    "from_team": "BOS",
+    "to_team": "FLA",
+    "from_player_ids": [
+      "delgaje01",
+      "garciha01",
+      "ramirha01",
+      "sanchan01"
+    ],
+    "to_player_ids": [
+      "beckejo02",
+      "lowelmi01",
+      "motagu01"
+    ]
+  },
+  {
+    "date": "December 2, 2005",
+    "from_team": "FLA",
+    "to_team": "MIN",
+    "from_player_ids": [
+      "castilu01"
+    ],
+    "to_player_ids": [
+      "tyler-001sco",
+      "bowyetr01"
+    ]
+  },
+  {
+    "date": "December 5, 2005",
+    "from_team": "FLA",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "loducpa01"
+    ],
+    "to_player_ids": [
+      "brinkl001dan",
+      "hernan001gab"
+    ]
+  },
+  {
+    "date": "December 6, 2005",
+    "from_team": "BAL",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "klinest02"
+    ],
+    "to_player_ids": [
+      "hawkila01"
+    ]
+  },
+  {
+    "date": "December 7, 2005",
+    "from_team": "KCR",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "blackw001cha",
+      "baylijo01"
+    ],
+    "to_player_ids": [
+      "redmama01"
+    ]
+  },
+  {
+    "date": "December 7, 2005",
+    "from_team": "COL",
+    "to_team": "STL",
+    "from_player_ids": [
+      "bigbila01",
+      "milesaa01"
+    ],
+    "to_player_ids": [
+      "kingra01"
+    ]
+  },
+  {
+    "date": "December 7, 2005",
+    "from_team": "SDP",
+    "to_team": "TBD",
+    "from_player_ids": [
+      "burrose01"
+    ],
+    "to_player_ids": [
+      "brazede01"
+    ]
+  },
+  {
+    "date": "December 7, 2005",
+    "from_team": "COL",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "carvama01"
+    ],
+    "to_player_ids": [
+      "torreyo01"
+    ]
+  },
+  {
+    "date": "December 7, 2005",
+    "from_team": "ARI",
+    "to_team": "ATL",
+    "from_player_ids": [
+      "cormila01",
+      "villaos01"
+    ],
+    "to_player_ids": [
+      "estrajo01"
+    ]
+  },
+  {
+    "date": "December 7, 2005",
+    "from_team": "ATL",
+    "to_team": "MIL",
+    "from_player_ids": [
+      "kolbda01"
+    ],
+    "to_player_ids": [
+      "obermwe01"
+    ]
+  },
+  {
+    "date": "December 7, 2005",
+    "from_team": "BOS",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "mirabdo01"
+    ],
+    "to_player_ids": [
+      "loretma01"
+    ]
+  },
+  {
+    "date": "December 7, 2005",
+    "from_team": "CHC",
+    "to_team": "FLA",
+    "from_player_ids": [
+      "mitrese01",
+      "nolasri01",
+      "pintore01"
+    ],
+    "to_player_ids": [
+      "pierrju01"
+    ]
+  },
+  {
+    "date": "December 7, 2005",
+    "from_team": "MIL",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "overbly01",
+      "taubety01"
+    ],
+    "to_player_ids": [
+      "bushda01",
+      "grossga01",
+      "jacksza01"
+    ]
+  },
+  {
+    "date": "December 8, 2005",
+    "from_team": "TEX",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "soriaal01"
+    ],
+    "to_player_ids": [
+      "galarar01",
+      "sledgte01",
+      "wilkebr01"
+    ]
+  },
+  {
+    "date": "December 8, 2005",
+    "from_team": "KCR",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "castrfa01"
+    ],
+    "to_player_ids": [
+      "germaes01"
+    ]
+  },
+  {
+    "date": "December 9, 2005",
+    "from_team": "LAA",
+    "to_team": "MIN",
+    "from_player_ids": [
+      "casilal01"
+    ],
+    "to_player_ids": [
+      "romerj.01"
+    ]
+  },
+  {
+    "date": "December 13, 2005",
+    "from_team": "LAD",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "bradlmi01",
+      "perezan01"
+    ],
+    "to_player_ids": [
+      "ethiean01"
+    ]
+  },
+  {
+    "date": "December 13, 2005",
+    "from_team": "CHW",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "marteda01"
+    ],
+    "to_player_ids": [
+      "mackoro01"
+    ]
+  },
+  {
+    "date": "December 19, 2005",
+    "from_team": "ATL",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "rodrig006ric"
+    ],
+    "to_player_ids": [
+      "diazma02"
+    ]
+  },
+  {
+    "date": "December 19, 2005",
+    "from_team": "LAA",
+    "to_team": "TBD",
+    "from_player_ids": [
+      "pauljo01"
+    ],
+    "to_player_ids": [
+      "schlitr01"
+    ]
+  },
+  {
+    "date": "December 20, 2005",
+    "from_team": "ARI",
+    "to_team": "CHW",
+    "from_player_ids": [
+      "vazquja01"
+    ],
+    "to_player_ids": [
+      "hernaor01",
+      "vizcalu01",
+      "youngch04"
+    ]
+  },
+  {
+    "date": "December 21, 2005",
+    "from_team": "KCR",
+    "to_team": "MIL",
+    "from_player_ids": [
+      "demarch01"
+    ],
+    "to_player_ids": [
+      "barnes002jus"
+    ]
+  },
+  {
+    "date": "December 21, 2005",
+    "from_team": "LAA",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "finlest01"
+    ],
+    "to_player_ids": [
+      "alfoned01"
+    ]
+  },
+  {
+    "date": "December 27, 2005",
+    "from_team": "ARI",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "glaustr01",
+      "santose01"
+    ],
+    "to_player_ids": [
+      "batismi01",
+      "hudsoor01"
+    ]
+  },
+  {
+    "date": "January 4, 2006",
+    "from_team": "LAD",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "sanchdu01",
+      "schmost01"
+    ],
+    "to_player_ids": [
+      "hamulti01",
+      "seoja01"
+    ]
+  },
+  {
+    "date": "January 6, 2006",
+    "from_team": "SDP",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "killia001wil",
+      "eatonad01",
+      "otsukak01"
+    ],
+    "to_player_ids": [
+      "gonzaad01",
+      "sledgte01",
+      "youngch03"
+    ]
+  },
+  {
+    "date": "January 6, 2006",
+    "from_team": "MIL",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "wolfebr01"
+    ],
+    "to_player_ids": [
+      "koskico01"
+    ]
+  },
+  {
+    "date": "January 9, 2006",
+    "from_team": "BAL",
+    "to_team": "CHC",
+    "from_player_ids": [
+      "perez-004car",
+      "spears001nat"
+    ],
+    "to_player_ids": [
+      "patteco01"
+    ]
+  },
+  {
+    "date": "January 14, 2006",
+    "from_team": "LAD",
+    "to_team": "TBD",
+    "from_player_ids": [
+      "tiffan001cha",
+      "jacksed01"
+    ],
+    "to_player_ids": [
+      "baezda01",
+      "cartela02"
+    ]
+  },
+  {
+    "date": "January 17, 2006",
+    "from_team": "CLE",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "tallebr01"
+    ],
+    "to_player_ids": [
+      "buzach001edw"
+    ]
+  },
+  {
+    "date": "January 22, 2006",
+    "from_team": "BAL",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "juliojo01",
+      "mainejo01"
+    ],
+    "to_player_ids": [
+      "bensokr01"
+    ]
+  },
+  {
+    "date": "January 27, 2006",
+    "from_team": "CLE",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "rhodear01"
+    ],
+    "to_player_ids": [
+      "michaja01"
+    ]
+  },
+  {
+    "date": "February 28, 2006",
+    "from_team": "ARI",
+    "to_team": "LAA",
+    "from_player_ids": [
+      "bulgeja01"
+    ],
+    "to_player_ids": [
+      "callaal01"
+    ]
+  },
+  {
+    "date": "March 8, 2006",
+    "from_team": "ARI",
+    "to_team": "CHW",
+    "from_player_ids": [
+      "cintral01"
+    ],
+    "to_player_ids": [
+      "bajenje01"
+    ]
+  },
+  {
+    "date": "March 20, 2006",
+    "from_team": "CHW",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "borchjo01"
+    ],
+    "to_player_ids": [
+      "thornma01"
+    ]
+  },
+  {
+    "date": "March 21, 2006",
+    "from_team": "CIN",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "basham001rob"
+    ],
+    "to_player_ids": [
+      "rossda01"
+    ]
+  },
+  {
+    "date": "March 26, 2006",
+    "from_team": "ARI",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "halsebr01"
+    ],
+    "to_player_ids": [
+      "cruzju02"
+    ]
+  },
+  {
+    "date": "March 28, 2006",
+    "from_team": "CIN",
+    "to_team": "FLA",
+    "from_player_ids": [
+      "piste-001car"
+    ],
+    "to_player_ids": [
+      "jorgery01"
+    ]
+  },
+  {
+    "date": "March 28, 2006",
+    "from_team": "PHI",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "lopezaq01"
+    ],
+    "to_player_ids": [
+      "johnst001tre",
+      "thayer001mat"
+    ]
+  },
+  {
+    "date": "March 28, 2006",
+    "from_team": "CHC",
+    "to_team": "FLA",
+    "from_player_ids": [
+      "welleto01"
+    ],
+    "to_player_ids": [
+      "holdzk001lin",
+      "mccorm001zac"
+    ]
+  },
+  {
+    "date": "March 31, 2006",
+    "from_team": "KCR",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "valdewi01"
+    ],
+    "to_player_ids": [
+      "plumme001jar"
+    ]
+  },
+  {
+    "date": "April 1, 2006",
+    "from_team": "PHI",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "blaloc001jak",
+      "tejedro01"
+    ],
+    "to_player_ids": [
+      "delluda01"
+    ]
+  },
+  {
+    "date": "April 4, 2006",
+    "from_team": "CLE",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "tadanka01"
+    ],
+    "to_player_ids": [
+      "alvara001ram"
+    ]
+  },
+  {
+    "date": "April 6, 2006",
+    "from_team": "SEA",
+    "to_team": "TBD",
+    "from_player_ids": [
+      "carvama01"
+    ],
+    "to_player_ids": [
+      "delacr005jos"
+    ]
+  },
+  {
+    "date": "April 28, 2006",
+    "from_team": "SFG",
+    "to_team": "TBD",
+    "from_player_ids": [
+      "walkety01"
+    ],
+    "to_player_ids": [
+      "hines-001car"
+    ]
+  },
+  {
+    "date": "May 11, 2006",
+    "from_team": "SDP",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "rojas-001ces",
+      "guzmafr01"
+    ],
+    "to_player_ids": [
+      "hudgin001joh",
+      "sinisi001vin"
+    ]
+  },
+  {
+    "date": "May 24, 2006",
+    "from_team": "ARI",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "hernaor01"
+    ],
+    "to_player_ids": [
+      "juliojo01"
+    ]
+  },
+  {
+    "date": "May 26, 2006",
+    "from_team": "MIL",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "adamsmi03"
+    ],
+    "to_player_ids": [
+      "gonzaje01"
+    ]
+  },
+  {
+    "date": "June 15, 2006",
+    "from_team": "CIN",
+    "to_team": "MIN",
+    "from_player_ids": [
+      "robert001bra"
+    ],
+    "to_player_ids": [
+      "castrju01"
+    ]
+  },
+  {
+    "date": "June 15, 2006",
+    "from_team": "BOS",
+    "to_team": "CHW",
+    "from_player_ids": [
+      "riskeda01"
+    ],
+    "to_player_ids": [
+      "lopezja02"
+    ]
+  },
+  {
+    "date": "June 20, 2006",
+    "from_team": "KCR",
+    "to_team": "TBD",
+    "from_player_ids": [
+      "howeljp01"
+    ],
+    "to_player_ids": [
+      "cortefe01",
+      "gathrjo01"
+    ]
+  },
+  {
+    "date": "June 30, 2006",
+    "from_team": "CLE",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "perezed01"
+    ],
+    "to_player_ids": [
+      "cabreas01"
+    ]
+  },
+  {
+    "date": "July 1, 2006",
+    "from_team": "TEX",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "olsonti01"
+    ],
+    "to_player_ids": [
+      "mclaug001joe"
+    ]
+  },
+  {
+    "date": "July 13, 2006",
+    "from_team": "CIN",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "kearnau01",
+      "lopezfe01",
+      "wagnery01"
+    ],
+    "to_player_ids": [
+      "braybi01",
+      "claytro01",
+      "harribr01",
+      "majewga01",
+      "thompda02"
+    ]
+  },
+  {
+    "date": "July 18, 2006",
+    "from_team": "CLE",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "adamsmi03"
+    ],
+    "to_player_ids": [
+      "sikorbr01"
+    ]
+  },
+  {
+    "date": "July 19, 2006",
+    "from_team": "KCR",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "gotayru01"
+    ],
+    "to_player_ids": [
+      "keppije01"
+    ]
+  },
+  {
+    "date": "July 20, 2006",
+    "from_team": "ATL",
+    "to_team": "CLE",
+    "from_player_ids": [
+      "ramirma03"
+    ],
+    "to_player_ids": [
+      "wickmbo01"
+    ]
+  },
+  {
+    "date": "July 22, 2006",
+    "from_team": "SFG",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "accarje01"
+    ],
+    "to_player_ids": [
+      "chulkvi01",
+      "hillesh02"
+    ]
+  },
+  {
+    "date": "July 22, 2006",
+    "from_team": "CHC",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "willisc01"
+    ],
+    "to_player_ids": [
+      "jimene001fab",
+      "santo-001joe"
+    ]
+  },
+  {
+    "date": "July 23, 2006",
+    "from_team": "CHW",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "lamura001wil"
+    ],
+    "to_player_ids": [
+      "alomasa02"
+    ]
+  },
+  {
+    "date": "July 24, 2006",
+    "from_team": "CHW",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "lumsde001tyl",
+      "corteda02"
+    ],
+    "to_player_ids": [
+      "macdomi01"
+    ]
+  },
+  {
+    "date": "July 25, 2006",
+    "from_team": "KCR",
+    "to_team": "MIL",
+    "from_player_ids": [
+      "graffto01"
+    ],
+    "to_player_ids": [
+      "rosajo01"
+    ]
+  },
+  {
+    "date": "July 26, 2006",
+    "from_team": "NYY",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "made--001hec"
+    ],
+    "to_player_ids": [
+      "fasansa01"
+    ]
+  },
+  {
+    "date": "July 28, 2006",
+    "from_team": "MIL",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "laurea002wil"
+    ],
+    "to_player_ids": [
+      "bellda01"
+    ]
+  },
+  {
+    "date": "July 28, 2006",
+    "from_team": "MIL",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "cruzne02",
+      "leeca01"
+    ],
+    "to_player_ids": [
+      "corder001jul",
+      "cordefr01",
+      "menchke01",
+      "nixla01"
+    ]
+  },
+  {
+    "date": "July 28, 2006",
+    "from_team": "SFG",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "martish01"
+    ],
+    "to_player_ids": [
+      "stantmi02"
+    ]
+  },
+  {
+    "date": "July 30, 2006",
+    "from_team": "NYY",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "henry-001car",
+      "sanche003jes",
+      "monasca01",
+      "smithma04"
+    ],
+    "to_player_ids": [
+      "abreubo01",
+      "lidleco01"
+    ]
+  },
+  {
+    "date": "July 30, 2006",
+    "from_team": "CLE",
+    "to_team": "STL",
+    "from_player_ids": [
+      "belliro01"
+    ],
+    "to_player_ids": [
+      "lunahe01"
+    ]
+  },
+  {
+    "date": "July 30, 2006",
+    "from_team": "BOS",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "mendolu01"
+    ],
+    "to_player_ids": [
+      "coreybr01"
+    ]
+  },
+  {
+    "date": "July 31, 2006",
+    "from_team": "CIN",
+    "to_team": "MIN",
+    "from_player_ids": [
+      "ward--001zac"
+    ],
+    "to_player_ids": [
+      "lohseky01"
+    ]
+  },
+  {
+    "date": "July 31, 2006",
+    "from_team": "NYY",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "chacosh01"
+    ],
+    "to_player_ids": [
+      "wilsocr03"
+    ]
+  },
+  {
+    "date": "July 31, 2006",
+    "from_team": "CIN",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "germaju01"
+    ],
+    "to_player_ids": [
+      "cormirh01"
+    ]
+  },
+  {
+    "date": "July 31, 2006",
+    "from_team": "LAD",
+    "to_team": "TBD",
+    "from_player_ids": [
+      "pedroz001ser",
+      "guzmajo03"
+    ],
+    "to_player_ids": [
+      "lugoju01"
+    ]
+  },
+  {
+    "date": "July 31, 2006",
+    "from_team": "CHC",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "maddugr01"
+    ],
+    "to_player_ids": [
+      "izturce01"
+    ]
+  },
+  {
+    "date": "July 31, 2006",
+    "from_team": "NYM",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "nadyxa01"
+    ],
+    "to_player_ids": [
+      "hernaro01",
+      "perezol01"
+    ]
+  },
+  {
+    "date": "July 31, 2006",
+    "from_team": "DET",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "rogerbr01"
+    ],
+    "to_player_ids": [
+      "caseyse01"
+    ]
+  },
+  {
+    "date": "July 31, 2006",
+    "from_team": "COL",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "dohmasc01",
+      "shealry01"
+    ],
+    "to_player_ids": [
+      "affelje01",
+      "bautide01"
+    ]
+  },
+  {
+    "date": "July 31, 2006",
+    "from_team": "ATL",
+    "to_team": "STL",
+    "from_player_ids": [
+      "sosajo02"
+    ],
+    "to_player_ids": [
+      "scalam001ric"
+    ]
+  },
+  {
+    "date": "July 31, 2006",
+    "from_team": "KCR",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "stairma01"
+    ],
+    "to_player_ids": [
+      "diazjo01"
+    ]
+  },
+  {
+    "date": "July 31, 2006",
+    "from_team": "CHC",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "walketo04"
+    ],
+    "to_player_ids": [
+      "cedajo01"
+    ]
+  },
+  {
+    "date": "July 31, 2006",
+    "from_team": "PIT",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "wellski01"
+    ],
+    "to_player_ids": [
+      "chaveje01"
+    ]
+  },
+  {
+    "date": "August 1, 2006",
+    "from_team": "FLA",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "blankma01"
+    ],
+    "to_player_ids": [
+      "broweji01"
+    ]
+  },
+  {
+    "date": "August 19, 2006",
+    "from_team": "PHI",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "baldwi001and",
+      "barb--001and"
+    ],
+    "to_player_ids": [
+      "moyerja01"
+    ]
+  },
+  {
+    "date": "August 20, 2006",
+    "from_team": "CHC",
+    "to_team": "DET",
+    "from_player_ids": [
+      "perezne01"
+    ],
+    "to_player_ids": [
+      "robinch02"
+    ]
+  },
+  {
+    "date": "August 30, 2006",
+    "from_team": "NYM",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "diazvi01"
+    ],
+    "to_player_ids": [
+      "nickemi01"
+    ]
+  },
+  {
+    "date": "August 31, 2006",
+    "from_team": "ATL",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "atilalu01"
+    ],
+    "to_player_ids": [
+      "wardda01"
+    ]
+  },
+  {
+    "date": "August 31, 2006",
+    "from_team": "LAD",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "nunezjh01"
+    ],
+    "to_player_ids": [
+      "anderma02"
+    ]
+  },
+  {
+    "date": "October 13, 2006",
+    "from_team": "ARI",
+    "to_team": "CIN",
+    "from_player_ids": [
+      "gilje01"
+    ],
+    "to_player_ids": [
+      "woody-001abr"
+    ]
+  },
+  {
+    "date": "November 8, 2006",
+    "from_team": "CLE",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "brownan01",
+      "kouzmke01"
+    ],
+    "to_player_ids": [
+      "barfijo02"
+    ]
+  },
+  {
+    "date": "November 10, 2006",
+    "from_team": "DET",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "claggan01",
+      "sanchhu01",
+      "whelake01"
+    ],
+    "to_player_ids": [
+      "sheffga01"
+    ]
+  },
+  {
+    "date": "November 15, 2006",
+    "from_team": "NYM",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "bellhe01",
+      "ringro01"
+    ],
+    "to_player_ids": [
+      "adkinjo01",
+      "johnsbe02"
+    ]
+  },
+  {
+    "date": "November 16, 2006",
+    "from_team": "CHC",
+    "to_team": "CHW",
+    "from_player_ids": [
+      "vasque002car",
+      "aardsda01"
+    ],
+    "to_player_ids": [
+      "cottsne01"
+    ]
+  },
+  {
+    "date": "November 20, 2006",
+    "from_team": "FLA",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "bostic001ada",
+      "vargaja01"
+    ],
+    "to_player_ids": [
+      "lindsma01",
+      "owenshe01"
+    ]
+  },
+  {
+    "date": "November 25, 2006",
+    "from_team": "ARI",
+    "to_team": "MIL",
+    "from_player_ids": [
+      "aquingr01",
+      "estrajo01",
+      "vargacl01"
+    ],
+    "to_player_ids": [
+      "davisdo02",
+      "evelada01",
+      "krynzda01"
+    ]
+  },
+  {
+    "date": "December 6, 2006",
+    "from_team": "KCR",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "burgoam01"
+    ],
+    "to_player_ids": [
+      "bannibr01"
+    ]
+  },
+  {
+    "date": "December 6, 2006",
+    "from_team": "CHW",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "garcifr03"
+    ],
+    "to_player_ids": [
+      "floydga01",
+      "gonzagi01"
+    ]
+  },
+  {
+    "date": "December 7, 2006",
+    "from_team": "ATL",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "ramirho01"
+    ],
+    "to_player_ids": [
+      "soriara01"
+    ]
+  },
+  {
+    "date": "December 12, 2006",
+    "from_team": "COL",
+    "to_team": "HOU",
+    "from_player_ids": [
+      "asencmi01",
+      "jennija01"
+    ],
+    "to_player_ids": [
+      "buchhta01",
+      "hirshja01",
+      "taverwi01"
+    ]
+  },
+  {
+    "date": "December 15, 2006",
+    "from_team": "BOS",
+    "to_team": "LAA",
+    "from_player_ids": [
+      "seibeph01"
+    ],
+    "to_player_ids": [
+      "donnebr01"
+    ]
+  },
+  {
+    "date": "December 16, 2006",
+    "from_team": "CHW",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "gloadro01"
+    ],
+    "to_player_ids": [
+      "siscoan01"
+    ]
+  },
+  {
+    "date": "December 20, 2006",
+    "from_team": "FLA",
+    "to_team": "LAA",
+    "from_player_ids": [
+      "resopch01"
+    ],
+    "to_player_ids": [
+      "greggke01"
+    ]
+  },
+  {
+    "date": "December 21, 2006",
+    "from_team": "CIN",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "key---001bra",
+      "moran-001jav"
+    ],
+    "to_player_ids": [
+      "coninje01"
+    ]
+  },
+  {
+    "date": "December 23, 2006",
+    "from_team": "CHW",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "paisan001dav",
+      "mccarbr01"
+    ],
+    "to_player_ids": [
+      "rasner001jac",
+      "danksjo01",
+      "masseni01"
+    ]
+  },
+  {
+    "date": "January 10, 2007",
+    "from_team": "CIN",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "haltiw001kev"
+    ],
+    "to_player_ids": [
+      "keppije01"
+    ]
+  },
+  {
+    "date": "January 12, 2007",
+    "from_team": "BAL",
+    "to_team": "COL",
+    "from_player_ids": [
+      "lopezro02"
+    ],
+    "to_player_ids": [
+      "burch-001rob",
+      "milleji02"
+    ]
+  },
+  {
+    "date": "January 12, 2007",
+    "from_team": "CHW",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "stewach01"
+    ],
+    "to_player_ids": [
+      "lujan-001joh"
+    ]
+  },
+  {
+    "date": "January 19, 2007",
+    "from_team": "ATL",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "larocad01",
+      "romakja01"
+    ],
+    "to_player_ids": [
+      "gonzami02",
+      "lillibr01"
+    ]
+  },
+  {
+    "date": "February 7, 2007",
+    "from_team": "DET",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "frazije01"
+    ],
+    "to_player_ids": [
+      "bazaryo01"
+    ]
+  },
+  {
+    "date": "February 13, 2007",
+    "from_team": "CHC",
+    "to_team": "TBD",
+    "from_player_ids": [
+      "ryuja01"
+    ],
+    "to_player_ids": [
+      "lopez-002and",
+      "reinha001gre"
+    ]
+  },
+  {
+    "date": "March 23, 2007",
+    "from_team": "ATL",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "penato02"
+    ],
+    "to_player_ids": [
+      "cordier01"
+    ]
+  },
+  {
+    "date": "March 26, 2007",
+    "from_team": "HOU",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "robins003chr"
+    ],
+    "to_player_ids": [
+      "ardoida01"
+    ]
+  },
+  {
+    "date": "March 27, 2007",
+    "from_team": "BAL",
+    "to_team": "BOS",
+    "from_player_ids": [
+      "keylor001cor"
+    ],
+    "to_player_ids": [
+      "castial01"
+    ]
+  },
+  {
+    "date": "March 27, 2007",
+    "from_team": "KCR",
+    "to_team": "MIL",
+    "from_player_ids": [
+      "stpiema01"
+    ],
+    "to_player_ids": [
+      "hendrbe01"
+    ]
+  },
+  {
+    "date": "March 30, 2007",
+    "from_team": "FLA",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "stokes001jas"
+    ],
+    "to_player_ids": [
+      "bakerjo01"
+    ]
+  },
+  {
+    "date": "April 1, 2007",
+    "from_team": "SEA",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "blacktr01"
+    ],
+    "to_player_ids": [
+      "ellisja01"
+    ]
+  },
+  {
+    "date": "May 2, 2007",
+    "from_team": "OAK",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "langery01"
+    ],
+    "to_player_ids": [
+      "snellch02"
+    ]
+  },
+  {
+    "date": "May 4, 2007",
+    "from_team": "MIL",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "clossjd01"
+    ],
+    "to_player_ids": [
+      "thomach01"
+    ]
+  },
+  {
+    "date": "May 13, 2007",
+    "from_team": "COL",
+    "to_team": "FLA",
+    "from_player_ids": [
+      "kimby01"
+    ],
+    "to_player_ids": [
+      "juliojo01"
+    ]
+  },
+  {
+    "date": "May 26, 2007",
+    "from_team": "CHW",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "pollok001dwa"
+    ],
+    "to_player_ids": [
+      "perezto03"
+    ]
+  },
+  {
+    "date": "June 14, 2007",
+    "from_team": "ATL",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "mccart005wil"
+    ],
+    "to_player_ids": [
+      "kooncgr01"
+    ]
+  },
+  {
+    "date": "June 16, 2007",
+    "from_team": "ARI",
+    "to_team": "CHW",
+    "from_player_ids": [
+      "richada02"
+    ],
+    "to_player_ids": [
+      "cunniaa01"
+    ]
+  },
+  {
+    "date": "June 20, 2007",
+    "from_team": "ATL",
+    "to_team": "DET",
+    "from_player_ids": [
+      "mcbrima01"
+    ],
+    "to_player_ids": [
+      "ledezwi01"
+    ]
+  },
+  {
+    "date": "June 24, 2007",
+    "from_team": "MIN",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "speigle01"
+    ],
+    "to_player_ids": [
+      "mcdonda02"
+    ]
+  },
+  {
+    "date": "July 1, 2007",
+    "from_team": "DET",
+    "to_team": "MIL",
+    "from_player_ids": [
+      "cody--001chr"
+    ],
+    "to_player_ids": [
+      "capeljo01"
+    ]
+  },
+  {
+    "date": "July 13, 2007",
+    "from_team": "DET",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "colonro01"
+    ],
+    "to_player_ids": [
+      "christ001dan"
+    ]
+  },
+  {
+    "date": "July 13, 2007",
+    "from_team": "CIN",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "manonju01"
+    ],
+    "to_player_ids": [
+      "denham001dan"
+    ]
+  },
+  {
+    "date": "July 21, 2007",
+    "from_team": "LAA",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "molinjo01"
+    ],
+    "to_player_ids": [
+      "kennar001jef"
+    ]
+  },
+  {
+    "date": "July 25, 2007",
+    "from_team": "MIL",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "inman-001wil",
+      "garrist01",
+      "thatcjo01"
+    ],
+    "to_player_ids": [
+      "linebsc01"
+    ]
+  },
+  {
+    "date": "July 27, 2007",
+    "from_team": "ARI",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "hairssc01"
+    ],
+    "to_player_ids": [
+      "rosalle01"
+    ]
+  },
+  {
+    "date": "July 27, 2007",
+    "from_team": "CHW",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "iguchta01"
+    ],
+    "to_player_ids": [
+      "dubee-001mic"
+    ]
+  },
+  {
+    "date": "July 27, 2007",
+    "from_team": "CLE",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "ramirma03"
+    ],
+    "to_player_ids": [
+      "loftoke01"
+    ]
+  },
+  {
+    "date": "July 28, 2007",
+    "from_team": "MIL",
+    "to_team": "TBD",
+    "from_player_ids": [
+      "balfogr01"
+    ],
+    "to_player_ids": [
+      "mccluse01"
+    ]
+  },
+  {
+    "date": "July 30, 2007",
+    "from_team": "MIN",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "castilu01"
+    ],
+    "to_player_ids": [
+      "martin002dus",
+      "buterdr01"
+    ]
+  },
+  {
+    "date": "July 30, 2007",
+    "from_team": "CIN",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "lohseky01"
+    ],
+    "to_player_ids": [
+      "malonma02"
+    ]
+  },
+  {
+    "date": "July 31, 2007",
+    "from_team": "PHI",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "mercha001jes"
+    ],
+    "to_player_ids": [
+      "mateoju01"
+    ]
+  },
+  {
+    "date": "July 31, 2007",
+    "from_team": "LAD",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "betemwi01"
+    ],
+    "to_player_ids": [
+      "proctsc01"
+    ]
+  },
+  {
+    "date": "July 31, 2007",
+    "from_team": "ATL",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "davieky01"
+    ],
+    "to_player_ids": [
+      "doteloc01"
+    ]
+  },
+  {
+    "date": "July 31, 2007",
+    "from_team": "ATL",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "startu001wil",
+      "ledezwi01"
+    ],
+    "to_player_ids": [
+      "ringro01"
+    ]
+  },
+  {
+    "date": "July 31, 2007",
+    "from_team": "CHW",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "mackoro01"
+    ],
+    "to_player_ids": [
+      "linkjo01"
+    ]
+  },
+  {
+    "date": "July 31, 2007",
+    "from_team": "ATL",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "jones-001bea",
+      "andruel01",
+      "felizne01",
+      "harrima01",
+      "saltaja01"
+    ],
+    "to_player_ids": [
+      "mahayro01",
+      "teixema01"
+    ]
+  },
+  {
+    "date": "August 9, 2007",
+    "from_team": "BAL",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "parrijo01"
+    ],
+    "to_player_ids": [
+      "bouche001seb"
+    ]
+  },
+  {
+    "date": "August 14, 2007",
+    "from_team": "DET",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "hannaja01"
+    ],
+    "to_player_ids": [
+      "perryja01"
+    ]
+  },
+  {
+    "date": "August 15, 2007",
+    "from_team": "COL",
+    "to_team": "MIN",
+    "from_player_ids": [
+      "macrima01"
+    ],
+    "to_player_ids": [
+      "ortizra02"
+    ]
+  },
+  {
+    "date": "August 20, 2007",
+    "from_team": "CIN",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "coninje01"
+    ],
+    "to_player_ids": [
+      "castro003jos",
+      "henry-001sea"
+    ]
+  },
+  {
+    "date": "August 21, 2007",
+    "from_team": "ARI",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "cartech01"
+    ],
+    "to_player_ids": [
+      "frutoem01"
+    ]
+  },
+  {
+    "date": "August 31, 2007",
+    "from_team": "BAL",
+    "to_team": "CHC",
+    "from_player_ids": [
+      "trachst01"
+    ],
+    "to_player_ids": [
+      "cherrro01",
+      "mooresc02"
+    ]
+  },
+  {
+    "date": "October 29, 2007",
+    "from_team": "ATL",
+    "to_team": "DET",
+    "from_player_ids": [
+      "renteed01"
+    ],
+    "to_player_ids": [
+      "hernago01",
+      "jurrjja01"
+    ]
+  },
+  {
+    "date": "November 7, 2007",
+    "from_team": "HOU",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "brunter01",
+      "lidgebr01"
+    ],
+    "to_player_ids": [
+      "bournmi01",
+      "costami01",
+      "gearyge01"
+    ]
+  },
+  {
+    "date": "November 12, 2007",
+    "from_team": "CHC",
+    "to_team": "DET",
+    "from_player_ids": [
+      "jonesja05"
+    ],
+    "to_player_ids": [
+      "infanom01"
+    ]
+  },
+  {
+    "date": "November 16, 2007",
+    "from_team": "ATL",
+    "to_team": "HOU",
+    "from_player_ids": [
+      "villaos01"
+    ],
+    "to_player_ids": [
+      "anderjo03"
+    ]
+  },
+  {
+    "date": "November 18, 2007",
+    "from_team": "OAK",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "scutama01"
+    ],
+    "to_player_ids": [
+      "bell--001kri",
+      "godfrgr01"
+    ]
+  },
+  {
+    "date": "November 19, 2007",
+    "from_team": "CHW",
+    "to_team": "LAA",
+    "from_player_ids": [
+      "garlajo01"
+    ],
+    "to_player_ids": [
+      "cabreor01"
+    ]
+  },
+  {
+    "date": "November 20, 2007",
+    "from_team": "MIL",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "estrajo01"
+    ],
+    "to_player_ids": [
+      "motagu01"
+    ]
+  },
+  {
+    "date": "November 28, 2007",
+    "from_team": "MIN",
+    "to_team": "TBD",
+    "from_player_ids": [
+      "morlan001edu",
+      "bartlja01",
+      "garzama01"
+    ],
+    "to_player_ids": [
+      "harribr01",
+      "pridija01",
+      "youngde03"
+    ]
+  },
+  {
+    "date": "November 30, 2007",
+    "from_team": "NYM",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "millela02"
+    ],
+    "to_player_ids": [
+      "churcry01",
+      "schnebr01"
+    ]
+  },
+  {
+    "date": "December 3, 2007",
+    "from_team": "TBD",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "dukesel01"
+    ],
+    "to_player_ids": [
+      "gibson001gle"
+    ]
+  },
+  {
+    "date": "December 3, 2007",
+    "from_team": "ARI",
+    "to_team": "CHW",
+    "from_player_ids": [
+      "quentca01"
+    ],
+    "to_player_ids": [
+      "cartech02"
+    ]
+  },
+  {
+    "date": "December 4, 2007",
+    "from_team": "ATL",
+    "to_team": "CHC",
+    "from_player_ids": [
+      "ascanjo01"
+    ],
+    "to_player_ids": [
+      "infanom01",
+      "ohmanwi01"
+    ]
+  },
+  {
+    "date": "December 4, 2007",
+    "from_team": "COL",
+    "to_team": "DET",
+    "from_player_ids": [
+      "bautide01"
+    ],
+    "to_player_ids": [
+      "capeljo01"
+    ]
+  },
+  {
+    "date": "December 4, 2007",
+    "from_team": "NYY",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "clippty01"
+    ],
+    "to_player_ids": [
+      "albaljo01"
+    ]
+  },
+  {
+    "date": "December 4, 2007",
+    "from_team": "DET",
+    "to_team": "FLA",
+    "from_player_ids": [
+      "traher001dal",
+      "badenbu01",
+      "delaceu01",
+      "maybica01",
+      "millean01",
+      "rabelmi01"
+    ],
+    "to_player_ids": [
+      "cabremi01",
+      "willido03"
+    ]
+  },
+  {
+    "date": "December 5, 2007",
+    "from_team": "CIN",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "coatsbu01"
+    ],
+    "to_player_ids": [
+      "jamesju01"
+    ]
+  },
+  {
+    "date": "December 5, 2007",
+    "from_team": "DET",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "sheltch01"
+    ],
+    "to_player_ids": [
+      "guzmafr01"
+    ]
+  },
+  {
+    "date": "December 7, 2007",
+    "from_team": "MIL",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "robert001kev",
+      "salasma02"
+    ],
+    "to_player_ids": [
+      "torresa01"
+    ]
+  },
+  {
+    "date": "December 12, 2007",
+    "from_team": "SEA",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "brousbe01"
+    ],
+    "to_player_ids": [
+      "hulettu01"
+    ]
+  },
+  {
+    "date": "December 12, 2007",
+    "from_team": "BAL",
+    "to_team": "HOU",
+    "from_player_ids": [
+      "tejadmi01"
+    ],
+    "to_player_ids": [
+      "alberma01",
+      "costami01",
+      "pattotr01",
+      "sarfade01",
+      "scottlu01"
+    ]
+  },
+  {
+    "date": "December 14, 2007",
+    "from_team": "ARI",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "callaal01"
+    ],
+    "to_player_ids": [
+      "bucknbi02"
+    ]
+  },
+  {
+    "date": "December 14, 2007",
+    "from_team": "ARI",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "anderbr04",
+      "cartech02",
+      "cunniaa01",
+      "evelada01",
+      "gonzaca01",
+      "smithgr02"
+    ],
+    "to_player_ids": [
+      "harenda01",
+      "roberco01"
+    ]
+  },
+  {
+    "date": "December 14, 2007",
+    "from_team": "SDP",
+    "to_team": "STL",
+    "from_player_ids": [
+      "freesda01"
+    ],
+    "to_player_ids": [
+      "edmonji01"
+    ]
+  },
+  {
+    "date": "December 14, 2007",
+    "from_team": "ARI",
+    "to_team": "HOU",
+    "from_player_ids": [
+      "valvejo01"
+    ],
+    "to_player_ids": [
+      "burkech01",
+      "gutieju01",
+      "quallch01"
+    ]
+  },
+  {
+    "date": "December 21, 2007",
+    "from_team": "CIN",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "hamiljo03"
+    ],
+    "to_player_ids": [
+      "herreda01",
+      "volqued01"
+    ]
+  },
+  {
+    "date": "January 3, 2008",
+    "from_team": "CHW",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "delosfa01",
+      "gonzagi01",
+      "sweenry01"
+    ],
+    "to_player_ids": [
+      "swishni01"
+    ]
+  },
+  {
+    "date": "January 5, 2008",
+    "from_team": "CHC",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "paganan01"
+    ],
+    "to_player_ids": [
+      "coles-001cor",
+      "meyers002rya"
+    ]
+  },
+  {
+    "date": "January 14, 2008",
+    "from_team": "ATL",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "richmo001jam",
+      "devinjo01"
+    ],
+    "to_player_ids": [
+      "kotsama01"
+    ]
+  },
+  {
+    "date": "January 14, 2008",
+    "from_team": "STL",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "rolensc01"
+    ],
+    "to_player_ids": [
+      "glaustr01"
+    ]
+  },
+  {
+    "date": "January 17, 2008",
+    "from_team": "ATL",
+    "to_team": "TBR",
+    "from_player_ids": [
+      "fontai001rob",
+      "aybarwi01"
+    ],
+    "to_player_ids": [
+      "ridgwje01"
+    ]
+  },
+  {
+    "date": "January 28, 2008",
+    "from_team": "BOS",
+    "to_team": "CHW",
+    "from_player_ids": [
+      "mota--002wil",
+      "socolmi01"
+    ],
+    "to_player_ids": [
+      "aardsda01"
+    ]
+  },
+  {
+    "date": "February 2, 2008",
+    "from_team": "MIN",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "santajo02"
+    ],
+    "to_player_ids": [
+      "gomezca01",
+      "guerrde01",
+      "humbeph01",
+      "mulveke01"
+    ]
+  },
+  {
+    "date": "February 5, 2008",
+    "from_team": "DET",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "hernan001mic"
+    ],
+    "to_player_ids": [
+      "galarar01"
+    ]
+  },
+  {
+    "date": "February 8, 2008",
+    "from_team": "BAL",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "bedarer01"
+    ],
+    "to_player_ids": [
+      "butler001ant",
+      "jonesad01",
+      "mickoka01",
+      "sherrge01",
+      "tillmch01"
+    ]
+  },
+  {
+    "date": "March 26, 2008",
+    "from_team": "ATL",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "yatesty01"
+    ],
+    "to_player_ids": [
+      "redmoto01"
+    ]
+  },
+  {
+    "date": "March 28, 2008",
+    "from_team": "ARI",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "nippedu01"
+    ],
+    "to_player_ids": [
+      "marte-001jos"
+    ]
+  },
+  {
+    "date": "March 29, 2008",
+    "from_team": "MIN",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "dicker.01"
+    ],
+    "to_player_ids": [
+      "fernan001jai"
+    ]
+  },
+  {
+    "date": "April 7, 2008",
+    "from_team": "ARI",
+    "to_team": "CIN",
+    "from_player_ids": [
+      "perale001dan"
+    ],
+    "to_player_ids": [
+      "coutljo01"
+    ]
+  },
+  {
+    "date": "April 22, 2008",
+    "from_team": "MIL",
+    "to_team": "TBR",
+    "from_player_ids": [
+      "grossga01"
+    ],
+    "to_player_ids": [
+      "butlejo03"
+    ]
+  },
+  {
+    "date": "April 30, 2008",
+    "from_team": "COL",
+    "to_team": "DET",
+    "from_player_ids": [
+      "simons001zac"
+    ],
+    "to_player_ids": [
+      "grillja01"
+    ]
+  },
+  {
+    "date": "May 7, 2008",
+    "from_team": "CHW",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "rousemi01"
+    ],
+    "to_player_ids": [
+      "dawkitr01"
+    ]
+  },
+  {
+    "date": "May 27, 2008",
+    "from_team": "SDP",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "wellsja02"
+    ],
+    "to_player_ids": [
+      "baekch01"
+    ]
+  },
+  {
+    "date": "June 25, 2008",
+    "from_team": "DET",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "bautide01"
+    ],
+    "to_player_ids": [
+      "pearso001kyl"
+    ]
+  },
+  {
+    "date": "July 8, 2008",
+    "from_team": "CHC",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "donaljo02",
+      "gallase01",
+      "murtoma01",
+      "patteer01"
+    ],
+    "to_player_ids": [
+      "gaudich01",
+      "harderi01"
+    ]
+  },
+  {
+    "date": "July 17, 2008",
+    "from_team": "OAK",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "blantjo01"
+    ],
+    "to_player_ids": [
+      "spence002mat",
+      "cardead01",
+      "outmajo01"
+    ]
+  },
+  {
+    "date": "July 17, 2008",
+    "from_team": "ARI",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "scribev01"
+    ],
+    "to_player_ids": [
+      "clarkto02"
+    ]
+  },
+  {
+    "date": "July 19, 2008",
+    "from_team": "BAL",
+    "to_team": "COL",
+    "from_player_ids": [
+      "mccoymi01"
+    ],
+    "to_player_ids": [
+      "castrju01"
+    ]
+  },
+  {
+    "date": "July 20, 2008",
+    "from_team": "MIL",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "hammon002ste",
+      "fordda03"
+    ],
+    "to_player_ids": [
+      "durhara01"
+    ]
+  },
+  {
+    "date": "July 22, 2008",
+    "from_team": "ARI",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "bonifem01"
+    ],
+    "to_player_ids": [
+      "rauchjo01"
+    ]
+  },
+  {
+    "date": "July 22, 2008",
+    "from_team": "HOU",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "reinech01"
+    ],
+    "to_player_ids": [
+      "wolfra02"
+    ]
+  },
+  {
+    "date": "July 26, 2008",
+    "from_team": "NYY",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "karstje01",
+      "mccutda01",
+      "ohlenro01",
+      "tabatjo01"
+    ],
+    "to_player_ids": [
+      "marteda01",
+      "nadyxa01"
+    ]
+  },
+  {
+    "date": "July 26, 2008",
+    "from_team": "CLE",
+    "to_team": "STL",
+    "from_player_ids": [
+      "perdolu01"
+    ],
+    "to_player_ids": [
+      "reyesan01"
+    ]
+  },
+  {
+    "date": "July 29, 2008",
+    "from_team": "ATL",
+    "to_team": "LAA",
+    "from_player_ids": [
+      "teixema01"
+    ],
+    "to_player_ids": [
+      "marek-001ste",
+      "kotchca01"
+    ]
+  },
+  {
+    "date": "July 30, 2008",
+    "from_team": "HOU",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "cusick001mat"
+    ],
+    "to_player_ids": [
+      "hawkila01"
+    ]
+  },
+  {
+    "date": "July 30, 2008",
+    "from_team": "DET",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "rodriiv01"
+    ],
+    "to_player_ids": [
+      "farnsky01"
+    ]
+  },
+  {
+    "date": "July 31, 2008",
+    "from_team": "FLA",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "hernan001gab"
+    ],
+    "to_player_ids": [
+      "rhodear01"
+    ]
+  },
+  {
+    "date": "July 31, 2008",
+    "from_team": "NYY",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "gonzaal03"
+    ],
+    "to_player_ids": [
+      "nunezjh01"
+    ]
+  },
+  {
+    "date": "August 7, 2008",
+    "from_team": "CHC",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "eyresc01"
+    ],
+    "to_player_ids": [
+      "schlibr01"
+    ]
+  },
+  {
+    "date": "August 9, 2008",
+    "from_team": "CHW",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "orlanpa01"
+    ],
+    "to_player_ids": [
+      "ramirho01"
+    ]
+  },
+  {
+    "date": "August 25, 2008",
+    "from_team": "MIN",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "hambuma01"
+    ],
+    "to_player_ids": [
+      "guarded01"
+    ]
+  },
+  {
+    "date": "August 27, 2008",
+    "from_team": "ATL",
+    "to_team": "BOS",
+    "from_player_ids": [
+      "kotsama01"
+    ],
+    "to_player_ids": [
+      "sumoza001lui"
+    ]
+  },
+  {
+    "date": "August 31, 2008",
+    "from_team": "ARI",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "beckch01"
+    ],
+    "to_player_ids": [
+      "eckstda01"
+    ]
+  },
+  {
+    "date": "October 31, 2008",
+    "from_team": "FLA",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "jacobmi02"
+    ],
+    "to_player_ids": [
+      "nunezle01"
+    ]
+  },
+  {
+    "date": "November 3, 2008",
+    "from_team": "CHC",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "avery-001mat"
+    ],
+    "to_player_ids": [
+      "buchtry01"
+    ]
+  },
+  {
+    "date": "November 10, 2008",
+    "from_team": "COL",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "hollima01"
+    ],
+    "to_player_ids": [
+      "gonzaca01",
+      "smithgr02",
+      "streehu01"
+    ]
+  },
+  {
+    "date": "November 10, 2008",
+    "from_team": "FLA",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "olsensc01",
+      "willijo03"
+    ],
+    "to_player_ids": [
+      "dean--002phi",
+      "bonifem01",
+      "smolija01"
+    ]
+  },
+  {
+    "date": "November 13, 2008",
+    "from_team": "CHC",
+    "to_team": "FLA",
+    "from_player_ids": [
+      "cedajo01"
+    ],
+    "to_player_ids": [
+      "greggke01"
+    ]
+  },
+  {
+    "date": "November 13, 2008",
+    "from_team": "CHW",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "swishni01",
+      "texeika01"
+    ],
+    "to_player_ids": [
+      "betemwi01",
+      "marquje01",
+      "nunezjh01"
+    ]
+  },
+  {
+    "date": "November 19, 2008",
+    "from_team": "BOS",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "crispco01"
+    ],
+    "to_player_ids": [
+      "ramirra02"
+    ]
+  },
+  {
+    "date": "November 20, 2008",
+    "from_team": "PHI",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "golsogr01"
+    ],
+    "to_player_ids": [
+      "maybejo02"
+    ]
+  },
+  {
+    "date": "December 4, 2008",
+    "from_team": "ATL",
+    "to_team": "CHW",
+    "from_player_ids": [
+      "gilmor001jon",
+      "rodrig002san",
+      "flowety01",
+      "lillibr01"
+    ],
+    "to_player_ids": [
+      "loganbo02",
+      "vazquja01"
+    ]
+  },
+  {
+    "date": "December 7, 2008",
+    "from_team": "DET",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "melo--001car",
+      "moscogu01"
+    ],
+    "to_player_ids": [
+      "lairdge01"
+    ]
+  },
+  {
+    "date": "December 10, 2008",
+    "from_team": "PHI",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "jaramja01"
+    ],
+    "to_player_ids": [
+      "pauliro01"
+    ]
+  },
+  {
+    "date": "December 10, 2008",
+    "from_team": "DET",
+    "to_team": "TBR",
+    "from_player_ids": [
+      "joycema01"
+    ],
+    "to_player_ids": [
+      "jacksed01"
+    ]
+  },
+  {
+    "date": "December 12, 2008",
+    "from_team": "ARI",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "roberco01"
+    ],
+    "to_player_ids": [
+      "schoesc01"
+    ]
+  },
+  {
+    "date": "December 31, 2008",
+    "from_team": "CHC",
+    "to_team": "CLE",
+    "from_player_ids": [
+      "derosma01"
+    ],
+    "to_player_ids": [
+      "archech01",
+      "gaubjo01",
+      "steveje01"
+    ]
+  },
+  {
+    "date": "January 6, 2009",
+    "from_team": "CHC",
+    "to_team": "COL",
+    "from_player_ids": [
+      "marquja01"
+    ],
+    "to_player_ids": [
+      "vizcalu01"
+    ]
+  },
+  {
+    "date": "January 18, 2009",
+    "from_team": "BAL",
+    "to_team": "CHC",
+    "from_player_ids": [
+      "willia005hen",
+      "olsonga01"
+    ],
+    "to_player_ids": [
+      "piefe01"
+    ]
+  },
+  {
+    "date": "January 19, 2009",
+    "from_team": "BAL",
+    "to_team": "BOS",
+    "from_player_ids": [
+      "bierdra01"
+    ],
+    "to_player_ids": [
+      "pauleda01"
+    ]
+  },
+  {
+    "date": "January 20, 2009",
+    "from_team": "BOS",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "aardsda01"
+    ],
+    "to_player_ids": [
+      "willia001fab"
+    ]
+  },
+  {
+    "date": "January 28, 2009",
+    "from_team": "CHC",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "cedenro02",
+      "olsonga01"
+    ],
+    "to_player_ids": [
+      "heilmaa01"
+    ]
+  },
+  {
+    "date": "February 2, 2009",
+    "from_team": "CHC",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "wuertmi01"
+    ],
+    "to_player_ids": [
+      "robnet001ric",
+      "selleju01"
+    ]
+  },
+  {
+    "date": "February 4, 2009",
+    "from_team": "COL",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "wimber001cor"
+    ],
+    "to_player_ids": [
+      "murtoma01"
+    ]
+  },
+  {
+    "date": "February 4, 2009",
+    "from_team": "MIL",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "fryerer01"
+    ],
+    "to_player_ids": [
+      "wrighch01"
+    ]
+  },
+  {
+    "date": "February 19, 2009",
+    "from_team": "CLE",
+    "to_team": "TBR",
+    "from_player_ids": [
+      "velasq001isa"
+    ],
+    "to_player_ids": [
+      "salasju01"
+    ]
+  },
+  {
+    "date": "March 27, 2009",
+    "from_team": "FLA",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "correa001hec"
+    ],
+    "to_player_ids": [
+      "pauliro01"
+    ]
+  },
+  {
+    "date": "March 27, 2009",
+    "from_team": "PHI",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "pauliro01"
+    ],
+    "to_player_ids": [
+      "taschja01"
+    ]
+  },
+  {
+    "date": "March 30, 2009",
+    "from_team": "ATL",
+    "to_team": "DET",
+    "from_player_ids": [
+      "anderjo03"
+    ],
+    "to_player_ids": [
+      "darrow001rud"
+    ]
+  },
+  {
+    "date": "April 1, 2009",
+    "from_team": "BAL",
+    "to_team": "FLA",
+    "from_player_ids": [
+      "pennha01"
+    ],
+    "to_player_ids": [
+      "andinro01"
+    ]
+  },
+  {
+    "date": "April 2, 2009",
+    "from_team": "ARI",
+    "to_team": "DET",
+    "from_player_ids": [
+      "brownbr02"
+    ],
+    "to_player_ids": [
+      "skelto001jam"
+    ]
+  },
+  {
+    "date": "April 5, 2009",
+    "from_team": "COL",
+    "to_team": "TBR",
+    "from_player_ids": [
+      "rodrian01"
+    ],
+    "to_player_ids": [
+      "hammeja01"
+    ]
+  },
+  {
+    "date": "April 17, 2009",
+    "from_team": "CHW",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "dubee-001mic"
+    ],
+    "to_player_ids": [
+      "phillan01"
+    ]
+  },
+  {
+    "date": "April 20, 2009",
+    "from_team": "ATL",
+    "to_team": "STL",
+    "from_player_ids": [
+      "boyerbl01"
+    ],
+    "to_player_ids": [
+      "bartobr01"
+    ]
+  },
+  {
+    "date": "April 29, 2009",
+    "from_team": "FLA",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "kensilo01"
+    ],
+    "to_player_ids": [
+      "gunder001kyl"
+    ]
+  },
+  {
+    "date": "May 8, 2009",
+    "from_team": "BAL",
+    "to_team": "CHC",
+    "from_player_ids": [
+      "freelry01"
+    ],
+    "to_player_ids": [
+      "gathrjo01"
+    ]
+  },
+  {
+    "date": "May 16, 2009",
+    "from_team": "NYY",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "hackeer01"
+    ],
+    "to_player_ids": [
+      "sanchro01"
+    ]
+  },
+  {
+    "date": "May 21, 2009",
+    "from_team": "MIL",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "gwynnto02"
+    ],
+    "to_player_ids": [
+      "gerutjo01"
+    ]
+  },
+  {
+    "date": "June 3, 2009",
+    "from_team": "ATL",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "hernago01",
+      "lockeje01",
+      "mortoch02"
+    ],
+    "to_player_ids": [
+      "mclouna01"
+    ]
+  },
+  {
+    "date": "June 26, 2009",
+    "from_team": "CHW",
+    "to_team": "CIN",
+    "from_player_ids": [
+      "milleco01"
+    ],
+    "to_player_ids": [
+      "hoppeno01"
+    ]
+  },
+  {
+    "date": "June 28, 2009",
+    "from_team": "SEA",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "morsemi01"
+    ],
+    "to_player_ids": [
+      "langery01"
+    ]
+  },
+  {
+    "date": "June 30, 2009",
+    "from_team": "PIT",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "burnese01",
+      "morgany01"
+    ],
+    "to_player_ids": [
+      "hanrajo01",
+      "millela02"
+    ]
+  },
+  {
+    "date": "July 2, 2009",
+    "from_team": "CHC",
+    "to_team": "COL",
+    "from_player_ids": [
+      "albural01"
+    ],
+    "to_player_ids": [
+      "bakerje03"
+    ]
+  },
+  {
+    "date": "July 2, 2009",
+    "from_team": "CLE",
+    "to_team": "TBR",
+    "from_player_ids": [
+      "meloajo01"
+    ],
+    "to_player_ids": [
+      "abreuwi01"
+    ]
+  },
+  {
+    "date": "July 7, 2009",
+    "from_team": "ARI",
+    "to_team": "CHW",
+    "from_player_ids": [
+      "penato03"
+    ],
+    "to_player_ids": [
+      "allenbr01"
+    ]
+  },
+  {
+    "date": "July 10, 2009",
+    "from_team": "KCR",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "saito-001der",
+      "corteda02"
+    ],
+    "to_player_ids": [
+      "betanyu01"
+    ]
+  },
+  {
+    "date": "July 10, 2009",
+    "from_team": "ATL",
+    "to_team": "NYM",
+    "from_player_ids": [
+      "francje02"
+    ],
+    "to_player_ids": [
+      "churcry01"
+    ]
+  },
+  {
+    "date": "July 11, 2009",
+    "from_team": "OAK",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "hannaja01"
+    ],
+    "to_player_ids": [
+      "souza-001jus"
+    ]
+  },
+  {
+    "date": "July 19, 2009",
+    "from_team": "ARI",
+    "to_team": "MIL",
+    "from_player_ids": [
+      "lopezfe01"
+    ],
+    "to_player_ids": [
+      "merced001roq",
+      "gilleco01"
+    ]
+  },
+  {
+    "date": "July 19, 2009",
+    "from_team": "BAL",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "salazos01"
+    ],
+    "to_player_ids": [
+      "meredcl01"
+    ]
+  },
+  {
+    "date": "July 22, 2009",
+    "from_team": "BOS",
+    "to_team": "STL",
+    "from_player_ids": [
+      "lugoju01"
+    ],
+    "to_player_ids": [
+      "duncach01"
+    ]
+  },
+  {
+    "date": "July 22, 2009",
+    "from_team": "BOS",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "diazar01",
+      "strichu01"
+    ],
+    "to_player_ids": [
+      "larocad01"
+    ]
+  },
+  {
+    "date": "July 23, 2009",
+    "from_team": "CLE",
+    "to_team": "COL",
+    "from_player_ids": [
+      "betanra01"
+    ],
+    "to_player_ids": [
+      "graham001con"
+    ]
+  },
+  {
+    "date": "July 24, 2009",
+    "from_team": "OAK",
+    "to_team": "STL",
+    "from_player_ids": [
+      "hollima01"
+    ],
+    "to_player_ids": [
+      "mortecl01",
+      "petersh01",
+      "wallabr01"
+    ]
+  },
+  {
+    "date": "July 27, 2009",
+    "from_team": "CLE",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "garkory01"
+    ],
+    "to_player_ids": [
+      "barnesc01"
+    ]
+  },
+  {
+    "date": "July 28, 2009",
+    "from_team": "BOS",
+    "to_team": "CHW",
+    "from_player_ids": [
+      "kotsama01"
+    ],
+    "to_player_ids": [
+      "anderbr03"
+    ]
+  },
+  {
+    "date": "July 29, 2009",
+    "from_team": "CLE",
+    "to_team": "PHI",
+    "from_player_ids": [
+      "francbe01",
+      "leecl02"
+    ],
+    "to_player_ids": [
+      "knapp-001jas",
+      "carraca01",
+      "donalja01",
+      "marsolo01"
+    ]
+  },
+  {
+    "date": "July 29, 2009",
+    "from_team": "CIN",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "manuero01"
+    ],
+    "to_player_ids": [
+      "balenwl01"
+    ]
+  },
+  {
+    "date": "July 29, 2009",
+    "from_team": "PIT",
+    "to_team": "SFG",
+    "from_player_ids": [
+      "sanchfr01"
+    ],
+    "to_player_ids": [
+      "alders001tim"
+    ]
+  },
+  {
+    "date": "July 29, 2009",
+    "from_team": "PIT",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "snellia01",
+      "wilsoja02"
+    ],
+    "to_player_ids": [
+      "lorin-001bre",
+      "priban001ben",
+      "adcocna01",
+      "cedenro02",
+      "clemeje01"
+    ]
+  },
+  {
+    "date": "July 30, 2009",
+    "from_team": "CHC",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "ascanjo01",
+      "harrijo05",
+      "hartke01"
+    ],
+    "to_player_ids": [
+      "gorzeto01",
+      "grabojo02"
+    ]
+  },
+  {
+    "date": "July 30, 2009",
+    "from_team": "BAL",
+    "to_team": "LAD",
+    "from_player_ids": [
+      "sherrge01"
+    ],
+    "to_player_ids": [
+      "belljo01",
+      "johnsst02"
+    ]
+  },
+  {
+    "date": "July 31, 2009",
+    "from_team": "COL",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "fabian002rob",
+      "matthry01"
+    ],
+    "to_player_ids": [
+      "beimejo01"
+    ]
+  },
+  {
+    "date": "July 31, 2009",
+    "from_team": "CHW",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "carter001dex",
+      "poredaa01",
+      "richacl01",
+      "russead01"
+    ],
+    "to_player_ids": [
+      "peavyja01"
+    ]
+  },
+  {
+    "date": "July 31, 2009",
+    "from_team": "BOS",
+    "to_team": "CLE",
+    "from_player_ids": [
+      "hagadni01",
+      "masteju01",
+      "pricebr10"
+    ],
+    "to_player_ids": [
+      "martivi01"
+    ]
+  },
+  {
+    "date": "July 31, 2009",
+    "from_team": "CIN",
+    "to_team": "NYY",
+    "from_player_ids": [
+      "hairsje02"
+    ],
+    "to_player_ids": [
+      "weems-002cha"
+    ]
+  },
+  {
+    "date": "July 31, 2009",
+    "from_team": "ATL",
+    "to_team": "BOS",
+    "from_player_ids": [
+      "kotchca01"
+    ],
+    "to_player_ids": [
+      "larocad01"
+    ]
+  },
+  {
+    "date": "July 31, 2009",
+    "from_team": "MIN",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "ladenty01"
+    ],
+    "to_player_ids": [
+      "cabreor01"
+    ]
+  },
+  {
+    "date": "July 31, 2009",
+    "from_team": "DET",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "frenclu01",
+      "roblema01"
+    ],
+    "to_player_ids": [
+      "washbja01"
+    ]
+  },
+  {
+    "date": "July 31, 2009",
+    "from_team": "CIN",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "encared01",
+      "roenijo01",
+      "stewaza01"
+    ],
+    "to_player_ids": [
+      "rolensc01"
+    ]
+  },
+  {
+    "date": "July 31, 2009",
+    "from_team": "FLA",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "thompaa01"
+    ],
+    "to_player_ids": [
+      "johnsni01"
+    ]
+  },
+  {
+    "date": "July 31, 2009",
+    "from_team": "LAD",
+    "to_team": "MIL",
+    "from_player_ids": [
+      "vargacl01"
+    ],
+    "to_player_ids": [
+      "rottivi01"
+    ]
+  },
+  {
+    "date": "August 5, 2009",
+    "from_team": "PIT",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "koplomi01"
+    ],
+    "to_player_ids": [
+      "benite001dey"
+    ]
+  },
+  {
+    "date": "August 6, 2009",
+    "from_team": "NYM",
+    "to_team": "WSN",
+    "from_player_ids": [
+      "veloz-001gre"
+    ],
+    "to_player_ids": [
+      "hernaan01"
+    ]
+  },
+  {
+    "date": "August 17, 2009",
+    "from_team": "BAL",
+    "to_team": "DET",
+    "from_player_ids": [
+      "huffau01"
+    ],
+    "to_player_ids": [
+      "jacobs001bre"
+    ]
+  },
+  {
+    "date": "August 19, 2009",
+    "from_team": "MIL",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "hallbi03"
+    ],
+    "to_player_ids": [
+      "flores001rub"
+    ]
+  },
+  {
+    "date": "September 3, 2009",
+    "from_team": "KCR",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "gutier001dan"
+    ],
+    "to_player_ids": [
+      "smith-004tim",
+      "pinama01"
+    ]
+  },
+  {
+    "date": "November 3, 2009",
+    "from_team": "PIT",
+    "to_team": "TBR",
+    "from_player_ids": [
+      "chaveje01"
+    ],
+    "to_player_ids": [
+      "iwamuak01"
+    ]
+  },
+  {
+    "date": "November 5, 2009",
+    "from_team": "BOS",
+    "to_team": "FLA",
+    "from_player_ids": [
+      "alvarjo02",
+      "joneshu01"
+    ],
+    "to_player_ids": [
+      "hermije01"
+    ]
+  },
+  {
+    "date": "November 6, 2009",
+    "from_team": "CHW",
+    "to_team": "KCR",
+    "from_player_ids": [
+      "fieldjo02",
+      "getzch01"
+    ],
+    "to_player_ids": [
+      "teahema01"
+    ]
+  },
+  {
+    "date": "November 6, 2009",
+    "from_team": "MIL",
+    "to_team": "MIN",
+    "from_player_ids": [
+      "hardyjj01"
+    ],
+    "to_player_ids": [
+      "gomezca01"
+    ]
+  },
+  {
+    "date": "November 19, 2009",
+    "from_team": "ARI",
+    "to_team": "CHC",
+    "from_player_ids": [
+      "white-001ryn",
+      "mainesc01"
+    ],
+    "to_player_ids": [
+      "heilmaa01"
+    ]
+  },
+  {
+    "date": "December 3, 2009",
+    "from_team": "CHC",
+    "to_team": "OAK",
+    "from_player_ids": [
+      "foxja02",
+      "milesaa01"
+    ],
+    "to_player_ids": [
+      "morla-001ron",
+      "spence002mat",
+      "grayje02"
+    ]
+  },
+  {
+    "date": "December 11, 2009",
+    "from_team": "ATL",
+    "to_team": "TBR",
+    "from_player_ids": [
+      "soriara01"
+    ],
+    "to_player_ids": [
+      "chaveje01"
+    ]
+  },
+  {
+    "date": "December 16, 2009",
+    "from_team": "PHI",
+    "to_team": "SEA",
+    "from_player_ids": [
+      "leecl02"
+    ],
+    "to_player_ids": [
+      "gillie001tys",
+      "aumonph01",
+      "ramirjc01"
+    ]
+  },
+  {
+    "date": "December 16, 2009",
+    "from_team": "OAK",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "wallabr01"
+    ],
+    "to_player_ids": [
+      "taylomi01"
+    ]
+  },
+  {
+    "date": "December 23, 2009",
+    "from_team": "SEA",
+    "to_team": "TOR",
+    "from_player_ids": [
+      "morrobr01"
+    ],
+    "to_player_ids": [
+      "chavez001yoh",
+      "leagubr01"
+    ]
+  },
+  {
+    "date": "January 16, 2010",
+    "from_team": "OAK",
+    "to_team": "SDP",
+    "from_player_ids": [
+      "cunniaa01",
+      "hairssc01"
+    ],
+    "to_player_ids": [
+      "kouzmke01",
+      "sogarer01"
+    ]
+  },
+  {
+    "date": "January 18, 2010",
+    "from_team": "CLE",
+    "to_team": "PIT",
+    "from_player_ids": [
+      "brito-001jes"
+    ],
+    "to_player_ids": [
+      "bixlebr01"
+    ]
+  },
+  {
+    "date": "March 22, 2010",
+    "from_team": "MIL",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "treanma01"
+    ],
+    "to_player_ids": [
+      "olmedra01"
+    ]
+  },
+  {
+    "date": "March 24, 2010",
+    "from_team": "OAK",
+    "to_team": "TEX",
+    "from_player_ids": [
+      "petitgr01"
+    ],
+    "to_player_ids": [
+      "ramired01"
+    ]
+  }
+]
